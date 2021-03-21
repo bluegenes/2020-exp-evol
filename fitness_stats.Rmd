@@ -1,0 +1,157 @@
+---
+title: "Tests for hybrid breakdown"
+author: N. Tessa Pierce
+output: html_document
+---
+
+Built with R version `r getRversion()`
+
+```{r setup}
+#install.packages("tidyverse")
+```
+
+## Setup
+
+Load Packages
+```{r}
+library(readr)
+library(dplyr)
+library(stringr)
+```
+
+### Read in data
+```{r}
+fecundity_data <- readr::read_csv("fitness_data_fecundity.csv", col_types = cols(class = col_factor(NULL)))
+survivorship_data <- read_csv("fitness_data_survivorship.csv",  col_types = cols(class = col_factor(NULL)))
+```
+### Sanity check data
+```{r}
+barplot(table(fecundity_data$class))
+barplot(table(survivorship_data$class))
+table(survivorship_data$class)
+```
+
+## Is there significant hybrid breakdown, in each mitochondrial background?
+
+### SC vs SC-F2
+
+```{r}
+# survivorship
+sc_scf2 <- survivorship_data %>% 
+  select(class, survivorship) %>% 
+  filter(class %in% c("SC", "SCF2"))
+
+#sc_scf2_wc <- 
+wilcox.test(survivorship~ class,  
+                   data = sc_scf2, 
+                   exact = FALSE)
+
+### fecundity
+f_sc_scf2 <- fecundity_data %>% 
+  select(class, fecundity) %>% 
+  filter(class %in% c("SC", "SCF2"))
+
+#f_sc_scf2_wc <- 
+wilcox.test(fecundity~ class,  
+                       data = f_sc_scf2, 
+                       exact = FALSE)
+```
+
+### SD vs SD-F2
+```{r}
+## survivorship
+sd_sdf2 <- survivorship_data %>% 
+  select(class, survivorship) %>% 
+  filter(class %in% c("SD", "SDF2"))
+
+#sd_sdf2_wc <- 
+wilcox.test(survivorship~ class,  
+                          data = sd_sdf2, 
+                          exact = FALSE)
+
+# fecundity
+f_sd_sdf2 <- fecundity_data %>% 
+  select(class, fecundity) %>% 
+  filter(class %in% c("SD", "SDF2"))
+
+#f_sd_sdf2_wc <- 
+wilcox.test(fecundity~ class,  
+                       data = f_sd_sdf2, 
+                       exact = FALSE)
+
+```
+
+## Recovery from hybrid breakdown, in each mtDNA background
+
+### SCF2 vs SC5, SC6, SC7, SC8
+```{r}
+scf2_sc4 <- survivorship_data %>% 
+  select(class, survivorship) %>% 
+  filter(class %in% c("SCF2", "SC4"))
+scf2_sc4_wc <- wilcox.test(survivorship~ class,  
+                          data = scf2_sc4, 
+                          exact = FALSE)
+#scf2_sc4_wcPadj <- 
+p.adjust(scf2_sc4_wc$p.value, method="bonferroni", n=4)
+
+scf2_sc6 <- survivorship_data %>% 
+  select(class, survivorship) %>% 
+  filter(class %in% c("SCF2", "SC6"))
+scf2_sc6_wc <- wilcox.test(survivorship~ class,  
+                           data = scf2_sc6, 
+                           exact = FALSE)
+#scf2_sc6_wcPadj <- 
+p.adjust(scf2_sc6_wc$p.value, method="bonferroni", n=4)
+
+scf2_sc7 <- survivorship_data %>% 
+  select(class, survivorship) %>% 
+  filter(class %in% c("SCF2", "SC7"))
+scf2_sc7_wc <- wilcox.test(survivorship~ class,  
+                           data = scf2_sc7, 
+                           exact = FALSE)
+#scf2_sc7_wcPadj <- 
+p.adjust(scf2_sc7_wc$p.value, method="bonferroni", n=4)
+
+scf2_sc8 <- survivorship_data %>% 
+  select(class, survivorship) %>% 
+  filter(class %in% c("SCF2", "SC8"))
+scf2_sc8_wc <- wilcox.test(survivorship~ class,  
+                           data = scf2_sc8, 
+                           exact = FALSE)
+#scf2_sc8_wcPadj <- 
+p.adjust(scf2_sc8_wc$p.value, method="bonferroni", n=4)
+```
+
+###  SDF2 vs SD3, SD4, SD7
+```{r}
+sdf2_sd3 <- survivorship_data %>% 
+  select(class, survivorship) %>% 
+  filter(class %in% c("SDF2", "SD3"))
+sdf2_sd3_wc <- wilcox.test(survivorship~ class,  
+                           data = sdf2_sd3, 
+                           exact = FALSE)
+#sdf2_sd3_wcPadj <- 
+p.adjust(sdf2_sd3_wc$p.value, method="bonferroni", n=3)
+
+sdf2_sd4 <- survivorship_data %>% 
+  select(class, survivorship) %>% 
+  filter(class %in% c("SDF2", "SD4"))
+sdf2_sd4_wc <- wilcox.test(survivorship~ class,  
+                           data = sdf2_sd4, 
+                           exact = FALSE)
+#sdf2_sd4_wcPadj <- 
+p.adjust(sdf2_sd4_wc$p.value, method="bonferroni", n=3)
+
+sdf2_sd7 <- survivorship_data %>% 
+  select(class, survivorship) %>% 
+  filter(class %in% c("SDF2", "SD7"))
+sdf2_sd7_wc <- wilcox.test(survivorship~ class,  
+                           data = sdf2_sd7, 
+                           exact = FALSE)
+#sdf2_sd3_wcPadj <- 
+p.adjust(sdf2_sd3_wc$p.value, method="bonferroni", n=3)
+```
+
+
+
+
