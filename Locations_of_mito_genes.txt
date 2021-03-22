@@ -1,0 +1,600 @@
+GENE_ID	CHR	START	END	GENENAME	MITO_CATEGORY
+TCALIF_01361-PA	Chromosome_1	10195875	10204688	Slc25a32 Mitochondrial folate transporter/carrier (Mus musculus)	
+TCALIF_01397-PA	Chromosome_1	10570799	10575186	"Mccc2 Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial (Rattus norvegicus)"	
+TCALIF_01417-PA	Chromosome_1	10796329	10800027	RPUSD2 RNA pseudouridylate synthase domain-containing protein 2 (Homo sapiens)	
+TCALIF_02460-PA	Chromosome_1	1388597	1390475	"Roe1 GrpE protein homolog, mitochondrial (Drosophila melanogaster)"	
+TCALIF_02461-PA	Chromosome_1	1366917	1384425	Carkd ATP-dependent (S)-NAD(P)H-hydrate dehydratase (Mus musculus)	
+TCALIF_02495-PA	Chromosome_1	1076588	1078296	"NUDT9 ADP-ribose pyrophosphatase, mitochondrial (Homo sapiens)"	
+TCALIF_02504-PA	Chromosome_1	976636	983653	NTHL1 Endonuclease III-like protein 1 (Bos taurus)	
+TCALIF_02510-PA	Chromosome_1	861606	896179	SLC25A10 Mitochondrial dicarboxylate carrier (Homo sapiens)	
+TCALIF_03022-PA	Chromosome_1	7320495	7328394	DNA-ligI DNA ligase 1 (Drosophila melanogaster)	
+TCALIF_03052-PA	Chromosome_1	7005074	7012797	slc25a42 Mitochondrial coenzyme A transporter SLC25A42 (Xenopus laevis)	
+TCALIF_03214-PA	Chromosome_1	12734052	12734666	"ISOC2 Isochorismatase domain-containing protein 2, mitochondrial (Macaca fascicularis)"	
+TCALIF_03216-PA	Chromosome_1	12748443	12752979	cox12 Cytochrome c oxidase subunit 6B (Schizosaccharomyces pombe (strain 972 / ATCC 24843))	Comp-IV
+TCALIF_03251-PA	Chromosome_1	13082520	13084151	"PYCR1 Pyrroline-5-carboxylate reductase 1, mitochondrial (Bos taurus)"	
+TCALIF_03266-PA	Chromosome_1	15238434	15249519	"MRPL27 39S ribosomal protein L27, mitochondrial (Homo sapiens)"	mRP
+TCALIF_03278-PA	Chromosome_1	15070895	15071731	Nipsnap Protein NipSnap (Drosophila melanogaster)	
+TCALIF_03780-PA	Chromosome_1	11926673	11931448	aralar1 Calcium-binding mitochondrial carrier protein Aralar1 (Drosophila melanogaster)	
+TCALIF_03805-PA	Chromosome_1	11657267	11665160	"Gdh Glutamate dehydrogenase, mitochondrial (Drosophila melanogaster)"	
+TCALIF_03814-PA	Chromosome_1	11587015	11590186	SLC25A15 Mitochondrial ornithine transporter 1 (Homo sapiens)	
+TCALIF_04097-PA	Chromosome_1	5142322	5165271	"LACTB Serine beta-lactamase-like protein LACTB, mitochondrial (Homo sapiens)"	
+TCALIF_04118-PA	Chromosome_1	4878855	4883958	"Mtfmt Methionyl-tRNA formyltransferase, mitochondrial (Mus musculus)"	
+TCALIF_04120-PA	Chromosome_1	6465851	6475193	Putative ATPase N2B (Haematobia irritans)	
+TCALIF_04131-PA	Chromosome_1	6348124	6357120	"mtacp1 Acyl carrier protein, mitochondrial (Drosophila melanogaster)"	
+TCALIF_04140-PA	Chromosome_1	6250773	6251425	Rfk Riboflavin kinase (Mus musculus)	
+TCALIF_04149-PA	Chromosome_1	6204263	6206237	Ppme1 Protein phosphatase methylesterase 1 (Mus musculus)	
+TCALIF_04156-PA	Chromosome_1	6174373	6176168	"HIBADH 3-hydroxyisobutyrate dehydrogenase, mitochondrial (Homo sapiens)"	
+TCALIF_04664-PA	Chromosome_1	1943286	1946340	"mRpL45 Probable 39S ribosomal protein L45, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_05071-PA	Chromosome_1	9762731	9766354	"PDF Peptide deformylase, mitochondrial (Homo sapiens)"	
+TCALIF_05074-PA	Chromosome_1	9793527	9798551	"Aldh5a1 Succinate-semialdehyde dehydrogenase, mitochondrial (Rattus norvegicus)"	
+TCALIF_06837-PA	Chromosome_1	8307631	8309423	NDUFA6 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6 (Pongo pygmaeus)	Comp-I
+TCALIF_07235-PA	Chromosome_1	5650042	5669865	MTX2 Metaxin-2 (Sus scrofa)	
+TCALIF_07244-PA	Chromosome_1	5750115	5752468	"Pdhb Pyruvate dehydrogenase E1 component subunit beta, mitochondrial (Mus musculus)"	
+TCALIF_07255-PA	Chromosome_1	5933701	5936711	"Aco2 Aconitate hydratase, mitochondrial (Rattus norvegicus)"	
+TCALIF_07473-PA	Chromosome_1	1553536	1557257	"tmem11-a Transmembrane protein 11-A, mitochondrial (Xenopus laevis)"	
+TCALIF_07477-PA	Chromosome_1	1567549	1569435	"PTCD1 Pentatricopeptide repeat-containing protein 1, mitochondrial (Pongo abelii)"	
+TCALIF_07667-PA	Chromosome_1	15290716	15301416	"Mtpap Poly(A) RNA polymerase, mitochondrial (Mus musculus)"	
+TCALIF_07684-PA	Chromosome_1	15536338	15539321	COASY Bifunctional coenzyme A synthase (Sus scrofa)	
+TCALIF_08634-PA	Chromosome_1	13834783	13841311	"Akap10 A-kinase anchor protein 10, mitochondrial (Mus musculus)"	
+TCALIF_08636-PA	Chromosome_1	13800988	13815860	Miro Mitochondrial Rho GTPase (Drosophila melanogaster)	
+TCALIF_09392-PA	Chromosome_1	371222	372133	"Bdh1 D-beta-hydroxybutyrate dehydrogenase, mitochondrial (Mus musculus)"	
+TCALIF_10240-PA	Chromosome_1	3819166	3819369	Cox6c Cytochrome c oxidase subunit 6C (Mus musculus)	Comp-IV
+TCALIF_10735-PA	Chromosome_1	5591141	5592727	"MLYCD Malonyl-CoA decarboxylase, mitochondrial (Homo sapiens)"	
+TCALIF_12158-PA	Chromosome_1	16429567	16432824	STARD3 StAR-related lipid transfer protein 3 (Homo sapiens)	
+TCALIF_12572-PA	Chromosome_1	6859424	6863679	"LETM1 LETM1 and EF-hand domain-containing protein 1, mitochondrial (Gallus gallus)"	
+TCALIF_12886-PA	Chromosome_1	11320186	11332437	"FeCh Ferrochelatase, mitochondrial (Drosophila melanogaster)"	
+TCALIF_13330-PA	Chromosome_1	16346755	16347102	Tim14 Mitochondrial import inner membrane translocase subunit TIM14 (Drosophila melanogaster)	
+TCALIF_13342-PA	Chromosome_1	2746151	2750729	"Mmaa Methylmalonic aciduria type A homolog, mitochondrial (Mus musculus)"	
+TCALIF_15094-PA	Chromosome_1	2818294	2827096	ATPAF2 ATP synthase mitochondrial F1 complex assembly factor 2 (Bos taurus)	
+TCALIF_00500-PA	Chromosome_2	7308349	7309287	Fis1 Mitochondrial fission 1 protein (Mus musculus)	
+TCALIF_00511-PA	Chromosome_2	7405016	7410002	"TXN2 Thioredoxin, mitochondrial (Bos taurus)"	
+TCALIF_00516-PA	Chromosome_2	7419805	7421983	MIPEP Mitochondrial intermediate peptidase (Homo sapiens)	
+TCALIF_00531-PA	Chromosome_2	7516074	7517461	"MRPL4 39S ribosomal protein L4, mitochondrial (Bos taurus)"	mRP
+TCALIF_00541-PA	Chromosome_2	7593420	7594382	"metap1d Methionine aminopeptidase 1D, mitochondrial (Danio rerio)"	
+TCALIF_00560-PA	Chromosome_2	7711781	7713490	"hibch 3-hydroxyisobutyryl-CoA hydrolase, mitochondrial (Xenopus tropicalis)"	
+TCALIF_00587-PA	Chromosome_2	7900528	7902264	"MRPS31 28S ribosomal protein S31, mitochondrial (Bos taurus)"	mRP
+TCALIF_00588-PA	Chromosome_2	7903036	7911015	"AAEL009368 Lipoyl synthase, mitochondrial (Aedes aegypti)"	
+TCALIF_00605-PA	Chromosome_2	8093166	8094044	"MRPL16 39S ribosomal protein L16, mitochondrial (Bos taurus)"	mRP
+TCALIF_00647-PA	Chromosome_2	5671494	5672459	"mRpL19 39S ribosomal protein L19, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_00648-PA	Chromosome_2	5669915	5670550	Tomm22 Mitochondrial import receptor subunit TOM22 homolog (Mus musculus)	
+TCALIF_00652-PA	Chromosome_2	5653922	5654719	"mRpL24 Probable 39S ribosomal protein L24, mitochondrial (Drosophila pseudoobscura pseudoobscura)"	mRP
+TCALIF_00664-PA	Chromosome_2	5515057	5521125	Tusc3 Tumor suppressor candidate 3 (Mus musculus)	
+TCALIF_00708-PA	Chromosome_2	5067000	5067917	"ABT ADP,ATP carrier protein (Chlamydomonas reinhardtii)"	
+TCALIF_00721-PA	Chromosome_2	4955656	4968233	"GLDC Glycine dehydrogenase (decarboxylating), mitochondrial (Gallus gallus)"	
+TCALIF_00774-PA	Chromosome_2	4616666	4619720	"DLST Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial (Bos taurus)"	
+TCALIF_01282-PA	Chromosome_2	10088377	10092283	"Mrpl38 39S ribosomal protein L38, mitochondrial (Rattus norvegicus)"	mRP
+TCALIF_01296-PA	Chromosome_2	10189456	10194978	"ABAT 4-aminobutyrate aminotransferase, mitochondrial (Sus scrofa)"	
+TCALIF_01595-PA	Chromosome_2	7256806	7257619	"isca1 Iron-sulfur cluster assembly 1 homolog, mitochondrial (Danio rerio)"	
+TCALIF_01599-PA	Chromosome_2	7242969	7244320	"bonsai 28S ribosomal protein S15, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_01649-PA	Chromosome_2	6913346	6917905	Protein of unknown function	
+TCALIF_01662-PA	Chromosome_2	6821467	6822517	Tom40 Mitochondrial import receptor subunit TOM40 homolog 1 (Drosophila melanogaster)	
+TCALIF_04502-PA	Chromosome_2	3100865	3104115	"PRDX3 Thioredoxin-dependent peroxide reductase, mitochondrial (Pongo abelii)"	
+TCALIF_04503-PA	Chromosome_2	3102182	3103657	"SHMT2 Serine hydroxymethyltransferase, mitochondrial (Oryctolagus cuniculus)"	
+TCALIF_04518-PA	Chromosome_2	2972909	2973778	"Timmdc1 Complex I assembly factor TIMMDC1, mitochondrial (Mus musculus)"	
+TCALIF_04535-PA	Chromosome_2	2732678	2734087	"sad Cytochrome P450 315a1, mitochondrial (Drosophila melanogaster)"	
+TCALIF_04583-PA	Chromosome_2	11311948	11312487	"MRPS23 28S ribosomal protein S23, mitochondrial (Homo sapiens)"	mRP
+TCALIF_04601-PA	Chromosome_2	11450412	11451356	"metap1d Methionine aminopeptidase 1D, mitochondrial (Danio rerio)"	
+TCALIF_04952-PA	Chromosome_2	3621519	3626998	Slc25a15 Mitochondrial ornithine transporter 1 (Mus musculus)	
+TCALIF_04972-PA	Chromosome_2	3859813	3860397	"Ict1 Peptidyl-tRNA hydrolase ICT1, mitochondrial (Mus musculus)"	
+TCALIF_04979-PA	Chromosome_2	4049894	4052418	atad3-b ATPase family AAA domain-containing protein 3-B (Xenopus laevis)	
+TCALIF_04991-PA	Chromosome_2	4121951	4123908	"Atpif1 ATPase inhibitor, mitochondrial (Rattus norvegicus)"	
+TCALIF_05673-PA	Chromosome_2	13351644	13355478	tamm41 Mitochondrial translocator assembly and maintenance protein 41 homolog (Xenopus laevis)	
+TCALIF_06330-PA	Chromosome_2	11947119	11949919	"SARS2 Serine--tRNA ligase, mitochondrial (Bos taurus)"	mtARS
+TCALIF_06352-PA	Chromosome_2	12122316	12125226	"PDP1 [Pyruvate dehydrogenase [acetyl-transferring]]-phosphatase 1, mitochondrial (Bos taurus)"	
+TCALIF_06388-PA	Chromosome_2	13265203	13266125	pam16-b Mitochondrial import inner membrane translocase subunit tim16-B (Xenopus laevis)	
+TCALIF_06393-PA	Chromosome_2	13236061	13237419	D2030.4 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 7 (Caenorhabditis elegans)	Comp-I
+TCALIF_06400-PA	Chromosome_2	13186662	13188014	"sad Cytochrome P450 315a1, mitochondrial (Drosophila melanogaster)"	
+TCALIF_06408-PA	Chromosome_2	13111921	13113258	"OXSM 3-oxoacyl-[acyl-carrier-protein] synthase, mitochondrial (Homo sapiens)"	
+TCALIF_06414-PA	Chromosome_2	13089789	13094201	Atp6v0a1 V-type proton ATPase 116 kDa subunit a isoform 1 (Mus musculus)	
+TCALIF_07032-PA	Chromosome_2	1448367	1455021	"OGDH 2-oxoglutarate dehydrogenase, mitochondrial (Macaca fascicularis)"	
+TCALIF_07035-PA	Chromosome_2	1437382	1438383	UQCR10 Cytochrome b-c1 complex subunit 9 (Bos taurus)	Comp-III
+TCALIF_07109-PA	Chromosome_2	10621073	10623931	"Nars2 Probable asparagine--tRNA ligase, mitochondrial (Mus musculus)"	mtARS
+TCALIF_07114-PA	Chromosome_2	10597912	10612227	"Echs1 Enoyl-CoA hydratase, mitochondrial (Mus musculus)"	
+TCALIF_07130-PA	Chromosome_2	10482954	10485656	"d2hgdh D-2-hydroxyglutarate dehydrogenase, mitochondrial (Danio rerio)"	
+TCALIF_08307-PA	Chromosome_2	6566664	6570184	slc9b2 Mitochondrial sodium/hydrogen exchanger 9B2 (Xenopus tropicalis)	
+TCALIF_08370-PA	Chromosome_2	14253006	14254820	"NDUFV2 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial (Bos taurus)"	Comp-I
+TCALIF_08373-PA	Chromosome_2	14228005	14230567	HCCS Cytochrome c-type heme lyase (Gallus gallus)	
+TCALIF_08378-PA	Chromosome_2	14203462	14206045	"hagh Hydroxyacylglutathione hydrolase, mitochondrial (Danio rerio)"	
+TCALIF_08385-PA	Chromosome_2	14148436	14152940	"MRPS21 28S ribosomal protein S21, mitochondrial (Homo sapiens)"	mRP
+TCALIF_08496-PA	Chromosome_2	204798	208663	CCDC51 Coiled-coil domain-containing protein 51 (Bos taurus)	
+TCALIF_08654-PA	Chromosome_2	14465308	14474060	MARC1 Mitochondrial amidoxime-reducing component 1 (Homo sapiens)	
+TCALIF_09188-PA	Chromosome_2	13576243	13584896	Vars Valine--tRNA ligase (Mus musculus)	mtARS
+TCALIF_09368-PA	Chromosome_2	3298971	3302920	"ACOT9 Acyl-coenzyme A thioesterase 9, mitochondrial (Homo sapiens)"	
+TCALIF_09514-PA	Chromosome_2	4397675	4398385	"mRpS7 28S ribosomal protein S7, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_09747-PA	Chromosome_2	4231664	4232751	"ABHD10 Mycophenolic acid acyl-glucuronide esterase, mitochondrial (Homo sapiens)"	
+TCALIF_09758-PA	Chromosome_2	4278325	4288414	romo1 Reactive oxygen species modulator 1 (Xenopus tropicalis)	
+TCALIF_09759-PA	Chromosome_2	4285026	4285469	"FDX1 Adrenodoxin, mitochondrial (Sus scrofa)"	
+TCALIF_09946-PA	Chromosome_2	6094584	6100326	"Oxct1 Succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial (Rattus norvegicus)"	
+TCALIF_10086-PA	Chromosome_2	2069616	2072148	"CG5463 Glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial (Drosophila melanogaster)"	
+TCALIF_10088-PA	Chromosome_2	2083420	2091554	"mRpL55 39S ribosomal protein L55, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_10425-PA	Chromosome_2	2270800	2272761	PDSS1 Decaprenyl-diphosphate synthase subunit 1 (Homo sapiens)	
+TCALIF_10499-PA	Chromosome_2	12692193	12697265	"DLD Dihydrolipoyl dehydrogenase, mitochondrial (Canis familiaris)"	
+TCALIF_11246-PA	Chromosome_2	3141779	3144399	"dib Cytochrome P450 302a1, mitochondrial (Drosophila melanogaster)"	
+TCALIF_11611-PA	Chromosome_2	477700	482415	PMPCB Mitochondrial-processing peptidase subunit beta (Bos taurus)	
+TCALIF_12137-PA	Chromosome_2	5805681	5806748	"MDH2 Malate dehydrogenase, mitochondrial (Bos taurus)"	
+TCALIF_12138-PA	Chromosome_2	5803695	5804600	Kole_1935 Probable transcriptional regulatory protein Kole_1935 (Kosmotoga olearia (strain TBF 19.5.1))	
+TCALIF_12586-PA	Chromosome_2	2424915	2425958	"MRPL42 39S ribosomal protein L42, mitochondrial (Bos taurus)"	mRP
+TCALIF_12591-PA	Chromosome_2	2403733	2414799	mtg1 Mitochondrial ribosome-associated GTPase 1 (Ictalurus punctatus)	
+TCALIF_12656-PA	Chromosome_2	14324254	14328642	"ACSM3 Acyl-coenzyme A synthetase ACSM3, mitochondrial (Homo sapiens)"	
+TCALIF_15585-PA	Chromosome_2	3270989	3285306	"GCAT 2-amino-3-ketobutyrate coenzyme A ligase, mitochondrial (Homo sapiens)"	
+TCALIF_00894-PA	Chromosome_3	9237885	9238772	"mRpL9 39S ribosomal protein L9, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_00897-PA	Chromosome_3	9216230	9217553	"isoc2 Isochorismatase domain-containing protein 2, mitochondrial (Xenopus laevis)"	
+TCALIF_00971-PA	Chromosome_3	8419455	8420608	UQCRQ Cytochrome b-c1 complex subunit 8 (Homo sapiens)	Comp-III
+TCALIF_01508-PA	Chromosome_3	73144	73416	mul1 Mitochondrial ubiquitin ligase activator of nfkb 1 (Xenopus laevis)	
+TCALIF_01532-PA	Chromosome_3	330442	331972	"MRPL18 39S ribosomal protein L18, mitochondrial (Homo sapiens)"	mRP
+TCALIF_01538-PA	Chromosome_3	355397	359074	Nvl Nuclear valosin-containing protein-like (Mus musculus)	
+TCALIF_01554-PA	Chromosome_3	528292	529338	"MRPS22 28S ribosomal protein S22, mitochondrial (Homo sapiens)"	mRP
+TCALIF_01568-PA	Chromosome_3	601080	604028	"CG7598 Probable complex I intermediate-associated protein 30, mitochondrial (Drosophila melanogaster)"	
+TCALIF_01585-PA	Chromosome_3	710453	712511	Ndufa8 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8 (Mus musculus)	Comp-I
+TCALIF_01875-PA	Chromosome_3	11030911	11036167	SLC25A27 Mitochondrial uncoupling protein 4 (Homo sapiens)	
+TCALIF_01897-PA	Chromosome_3	7801836	7803903	"ACAD8 Isobutyryl-CoA dehydrogenase, mitochondrial (Homo sapiens)"	
+TCALIF_01915-PA	Chromosome_3	7958445	7971472	"DHODH Dihydroorotate dehydrogenase (quinone), mitochondrial (Homo sapiens)"	
+TCALIF_01917-PA	Chromosome_3	7985715	7988563	"Acadl Long-chain specific acyl-CoA dehydrogenase, mitochondrial (Rattus norvegicus)"	
+TCALIF_01918-PA	Chromosome_3	7990435	7991001	"Mcee Methylmalonyl-CoA epimerase, mitochondrial (Mus musculus)"	
+TCALIF_01941-PA	Chromosome_3	8268034	8272247	"MRPL37 39S ribosomal protein L37, mitochondrial (Bos taurus)"	mRP
+TCALIF_01956-PA	Chromosome_3	8335387	8336808	Glod4 Glyoxalase domain-containing protein 4 (Mus musculus)	
+TCALIF_02199-PA	Chromosome_3	10525385	10532455	Cat Catalase (Drosophila melanogaster)	
+TCALIF_02200-PA	Chromosome_3	10525595	10528730	"lrpprc Leucine-rich PPR motif-containing protein, mitochondrial (Xenopus tropicalis)"	
+TCALIF_02224-PA	Chromosome_3	10213690	10215509	QDPR Dihydropteridine reductase (Bos taurus)	
+TCALIF_02254-PA	Chromosome_3	9869827	9873335	"CPT1A Carnitine O-palmitoyltransferase 1, liver isoform (Homo sapiens)"	
+TCALIF_02539-PA	Chromosome_3	4886089	4887660	"mRpL23 39S ribosomal protein L23, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_02560-PA	Chromosome_3	4620494	4621863	Nme2 Nucleoside diphosphate kinase B (Rattus norvegicus)	
+TCALIF_03350-PA	Chromosome_3	7433174	7433581	lyrm7 Complex III assembly factor LYRM7 (Xenopus tropicalis)	
+TCALIF_03359-PA	Chromosome_3	7535577	7537088	"mRpL51 39S ribosomal protein L51, mitochondrial (Drosophila pseudoobscura pseudoobscura)"	mRP
+TCALIF_05035-PA	Chromosome_3	3477971	3478708	"mtSSB Single-stranded DNA-binding protein, mitochondrial (Drosophila melanogaster)"	mtDNA replication
+TCALIF_05040-PA	Chromosome_3	3439723	3450070	"ACSS3 Acyl-CoA synthetase short-chain family member 3, mitochondrial (Pongo abelii)"	
+TCALIF_05049-PA	Chromosome_3	3396228	3399608	coq6 Ubiquinone biosynthesis monooxygenase COQ6 (Xenopus tropicalis)	
+TCALIF_05467-PA	Chromosome_3	1934136	1953930	"TUFM Elongation factor Tu, mitochondrial (Homo sapiens)"	EF
+TCALIF_05556-PA	Chromosome_3	1532560	1536290	"MRPL21 39S ribosomal protein L21, mitochondrial (Bos taurus)"	mRP
+TCALIF_05557-PA	Chromosome_3	1520057	1527810	"Clpx ATP-dependent Clp protease ATP-binding subunit clpX-like, mitochondrial (Mus musculus)"	
+TCALIF_05837-PA	Chromosome_3	9549059	9555973	"ATPsyn-b ATP synthase subunit b, mitochondrial (Drosophila melanogaster)"	Comp-V
+TCALIF_05842-PA	Chromosome_3	9589366	9590643	SCCPDH Saccharopine dehydrogenase-like oxidoreductase (Homo sapiens)	
+TCALIF_06032-PA	Chromosome_3	1026208	1027560	MTCH2 Mitochondrial carrier homolog 2 (Bos taurus)	
+TCALIF_06699-PA	Chromosome_3	12760909	12767252	"MRPL1 39S ribosomal protein L1, mitochondrial (Bos taurus)"	mRP
+TCALIF_08804-PA	Chromosome_3	6606615	6607281	Lyrm5 LYR motif-containing protein 5 (Mus musculus)	
+TCALIF_09109-PA	Chromosome_3	12104573	12126841	"NDUFA9 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 9, mitochondrial (Bos taurus)"	Comp-I
+TCALIF_09908-PA	Chromosome_3	5508770	5512160	Immp1l Mitochondrial inner membrane protease subunit 1 (Mus musculus)	
+TCALIF_10166-PA	Chromosome_3	5961271	5961804	"mRpS24 28S ribosomal protein S24, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_10585-PA	Chromosome_3	6858846	6869841	"Hars Histidine--tRNA ligase, cytoplasmic (Mus musculus)"	mtARS
+TCALIF_11524-PA	Chromosome_3	11586495	11588269	"AADAT Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial (Homo sapiens)"	
+TCALIF_11683-PA	Chromosome_3	10710746	10717380	timm8a Mitochondrial import inner membrane translocase subunit Tim8 A (Danio rerio)	
+TCALIF_12805-PA	Chromosome_3	6553627	6554759	"Etfdh Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial (Mus musculus)"	
+TCALIF_02280-PA	Chromosome_4	1467572	1470036	Kars Lysine--tRNA ligase (Mus musculus)	mtARS
+TCALIF_02758-PA	Chromosome_4	2208110	2213861	"ECSIT Evolutionarily conserved signaling intermediate in Toll pathway, mitochondrial (Drosophila melanogaster)"	
+TCALIF_02765-PA	Chromosome_4	2106722	2108744	"Aldh2 Aldehyde dehydrogenase, mitochondrial (Rattus norvegicus)"	
+TCALIF_02766-PA	Chromosome_4	2104392	2106653	ENOSF1 Mitochondrial enolase superfamily member 1 (Homo sapiens)	
+TCALIF_02774-PA	Chromosome_4	2024882	2025916	"PARL Presenilins-associated rhomboid-like protein, mitochondrial (Bos taurus)"	
+TCALIF_02907-PA	Chromosome_4	816257	818934	Cry2 Cryptochrome-2 (Mus musculus)	
+TCALIF_03098-PA	Chromosome_4	10651276	10652587	"CYC1 Cytochrome c1, heme protein, mitochondrial (Homo sapiens)"	Comp-III
+TCALIF_03111-PA	Chromosome_4	10816334	10818428	"Uncharacterized protein C2orf47 homolog, mitochondrial (Rattus norvegicus)"	
+TCALIF_03319-PA	Chromosome_4	5794058	5802638	"CoVa Cytochrome c oxidase subunit 5A, mitochondrial (Drosophila melanogaster)"	Comp-IV
+TCALIF_03322-PA	Chromosome_4	5781496	5784408	UCP2 Mitochondrial uncoupling protein 2 (Sus scrofa)	
+TCALIF_03474-PA	Chromosome_4	9582010	9583320	"Pdk [Pyruvate dehydrogenase (acetyl-transferring)] kinase, mitochondrial (Drosophila melanogaster)"	
+TCALIF_03479-PA	Chromosome_4	9635217	9643526	COX15 Cytochrome c oxidase assembly protein COX15 homolog (Homo sapiens)	Comp-IV
+TCALIF_03482-PA	Chromosome_4	9648662	9653713	"Gsr Glutathione reductase, mitochondrial (Mus musculus)"	
+TCALIF_03740-PA	Chromosome_4	8524714	8538763	"cps-6 Endonuclease G, mitochondrial (Caenorhabditis elegans)"	
+TCALIF_03746-PA	Chromosome_4	8495878	8501007	"Aats-ala-m Alanine--tRNA ligase, mitochondrial (Drosophila melanogaster)"	mtARS
+TCALIF_04376-PA	Chromosome_4	3947644	3956795	"Gls Glutaminase kidney isoform, mitochondrial (Mus musculus)"	
+TCALIF_05147-PA	Chromosome_4	13312837	13315486	Rab35 Ras-related protein Rab-35 (Rattus norvegicus)	
+TCALIF_05156-PA	Chromosome_4	13257310	13264301	"CG4495 Calcium uptake protein 1 homolog, mitochondrial (Drosophila melanogaster)"	
+TCALIF_05252-PA	Chromosome_4	7931909	7932301	"mRpS16 Probable 28S ribosomal protein S16, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_05366-PA	Chromosome_4	5412000	5417909	"Chchd2 Coiled-coil-helix-coiled-coil-helix domain-containing protein 2, mitochondrial (Mus musculus)"	
+TCALIF_05522-PA	Chromosome_4	11964522	11972366	"PRELID1 PRELI domain-containing protein 1, mitochondrial (Gallus gallus)"	
+TCALIF_05872-PA	Chromosome_4	4685299	4694126	"NDUFB5 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 5, mitochondrial (Macaca fascicularis)"	Comp-I
+TCALIF_05883-PA	Chromosome_4	4778643	4783823	NDUFA13 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13 (Macaca fascicularis)	Comp-I
+TCALIF_06431-PA	Chromosome_4	3692133	3700557	SCP2 Non-specific lipid-transfer protein (Oryctolagus cuniculus)	
+TCALIF_07222-PA	Chromosome_4	8942978	8943585	mrps17 28s ribosomal protein mitochondrial (Bos taurus)	mRP
+TCALIF_07223-PA	Chromosome_4	8932873	8938952	"Gls Glutaminase kidney isoform, mitochondrial (Rattus norvegicus)"	
+TCALIF_07651-PA	Chromosome_4	3090453	3100214	"Slc8b1 Sodium/potassium/calcium exchanger 6, mitochondrial (Rattus norvegicus)"	
+TCALIF_07823-PA	Chromosome_4	12564749	12568882	"RTN4IP1 Reticulon-4-interacting protein 1, mitochondrial (Homo sapiens)"	
+TCALIF_07824-PA	Chromosome_4	12557016	12567438	"IDH3B Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial (Bos taurus)"	
+TCALIF_07825-PA	Chromosome_4	12556339	12556902	"Mrpl12 39S ribosomal protein L12, mitochondrial (Mus musculus)"	mRP
+TCALIF_08021-PA	Chromosome_4	187504	192715	"Sucla2 Succinyl-CoA ligase [ADP-forming] subunit beta, mitochondrial (Mus musculus)"	
+TCALIF_08039-PA	Chromosome_4	460276	463480	"IARS2 Isoleucine--tRNA ligase, mitochondrial (Gallus gallus)"	mtARS
+TCALIF_08043-PA	Chromosome_4	12433982	12436166	Sirt3 NAD-dependent protein deacetylase sirtuin-3 (Mus musculus)	
+TCALIF_08055-PA	Chromosome_4	12296852	12297742	Slc25a20 Mitochondrial carnitine/acylcarnitine carrier protein (Mus musculus)	
+TCALIF_09082-PA	Chromosome_4	10037035	10038724	Ddx28 Probable ATP-dependent RNA helicase DDX28 (Mus musculus)	
+TCALIF_09692-PA	Chromosome_4	7034189	7034965	"D10Jhu81e ES1 protein homolog, mitochondrial (Mus musculus)"	
+TCALIF_09816-PA	Chromosome_4	6858486	6860921	"eral1 GTPase Era, mitochondrial (Danio rerio)"	
+TCALIF_09929-PA	Chromosome_4	693026	700691	"GCDH Glutaryl-CoA dehydrogenase, mitochondrial (Bos taurus)"	
+TCALIF_10396-PA	Chromosome_4	7191155	7194864	"PDPR Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial (Bos taurus)"	
+TCALIF_10405-PA	Chromosome_4	7341494	7342312	l(2)37Cc Protein l(2)37Cc (Drosophila melanogaster)	
+TCALIF_11127-PA	Chromosome_4	4421709	4422326	"PTRH2 Peptidyl-tRNA hydrolase 2, mitochondrial (Homo sapiens)"	
+TCALIF_11140-PA	Chromosome_4	6962081	6965380	"STOML2 Stomatin-like protein 2, mitochondrial (Homo sapiens)"	
+TCALIF_11477-PA	Chromosome_4	9930486	9934282	"STAR Steroidogenic acute regulatory protein, mitochondrial (Ovis aries)"	
+TCALIF_12094-PA	Chromosome_4	7002415	7005472	"ADCK3 Chaperone activity of bc1 complex-like, mitochondrial (Bos taurus)"	
+TCALIF_13127-PA	Chromosome_4	5170840	5171748	Slc25a20 Mitochondrial carnitine/acylcarnitine carrier protein (Mus musculus)	
+TCALIF_15842-PA	Chromosome_4	1374980	1382959	Protein of unknown function	mRP
+TCALIF_00004-PA	Chromosome_5	7826986	7830163	mgme1 Mitochondrial genome maintenance exonuclease 1 (Xenopus tropicalis)	
+TCALIF_00032-PA	Chromosome_5	7586124	7587648	Dhrs1 Dehydrogenase/reductase SDR family member 1 (Mus musculus)	
+TCALIF_00037-PA	Chromosome_5	7562954	7564391	NUDT2 Bis(5'-nucleosyl)-tetraphosphatase [asymmetrical] (Sus scrofa)	
+TCALIF_00045-PA	Chromosome_5	7503388	7508062	SLC25A19 Mitochondrial thiamine pyrophosphate carrier (Bos taurus)	
+TCALIF_00049-PA	Chromosome_5	7481156	7481893	mrpl53 39s ribosomal protein mitochondrial (Homo sapiens)	mRP
+TCALIF_00050-PA	Chromosome_5	7476327	7477415	Rmnd1 Required for meiotic nuclear division protein 1 homolog (Mus musculus)	
+TCALIF_00051-PA	Chromosome_5	7460718	7465993	"CG16935 Probable trans-2-enoyl-CoA reductase, mitochondrial (Drosophila melanogaster)"	
+TCALIF_00132-PA	Chromosome_5	6707388	6710507	Ppox Protoporphyrinogen oxidase (Mus musculus)	
+TCALIF_00157-PA	Chromosome_5	6449172	6450909	C33A12.1 Probable NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5 (Caenorhabditis elegans)	Comp-I
+TCALIF_02668-PA	Chromosome_5	15255939	15259399	slc25a37 Mitoferrin-1 (Danio rerio)	
+TCALIF_02721-PA	Chromosome_5	14606155	14610522	"HSPA9 Stress-70 protein, mitochondrial (Pongo abelii)"	
+TCALIF_03501-PA	Chromosome_5	4138715	4139835	"Sod2 Superoxide dismutase [Mn], mitochondrial (Rattus norvegicus)"	
+TCALIF_03512-PA	Chromosome_5	3946661	3949846	"Iscu Iron-sulfur cluster assembly enzyme ISCU, mitochondrial (Mus musculus)"	
+TCALIF_03533-PA	Chromosome_5	3760420	3763150	"MRPS9 28S ribosomal protein S9, mitochondrial (Homo sapiens)"	mRP
+TCALIF_03842-PA	Chromosome_5	8085064	8089490	"Mrps18c 28S ribosomal protein S18c, mitochondrial (Mus musculus)"	mRP
+TCALIF_03847-PA	Chromosome_5	8065534	8067160	NDUFB3 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3 (Pongo pygmaeus)	Comp-I
+TCALIF_03862-PA	Chromosome_5	7968454	7977231	"T05H10.6 Probable pyruvate dehydrogenase E1 component subunit alpha, mitochondrial (Caenorhabditis elegans)"	
+TCALIF_03865-PA	Chromosome_5	7954733	7956056	Dhrs1 Dehydrogenase/reductase SDR family member 1 (Mus musculus)	
+TCALIF_04068-PA	Chromosome_5	13343920	13347731	Tim13 Mitochondrial import inner membrane translocase subunit Tim13 (Drosophila melanogaster)	
+TCALIF_05316-PA	Chromosome_5	14176793	14180242	"TCAIM T-cell activation inhibitor, mitochondrial (Mus musculus)"	
+TCALIF_05680-PA	Chromosome_5	13784643	13785521	NUBPL Iron-sulfur protein NUBPL (Homo sapiens)	
+TCALIF_06358-PA	Chromosome_5	12721955	12726409	"rtn4ip1 Reticulon-4-interacting protein 1 homolog, mitochondrial (Danio rerio)"	
+TCALIF_06378-PA	Chromosome_5	12454948	12459576	"Suclg1 Succinyl-CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial (Rattus norvegicus)"	
+TCALIF_06968-PA	Chromosome_5	5441257	5465044	"C50F7.4 Probable succinyl-CoA ligase [GDP-forming] subunit beta, mitochondrial (Caenorhabditis elegans)"	
+TCALIF_07308-PA	Chromosome_5	4549162	4550904	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10 (Bombyx mori)	Comp-I
+TCALIF_07908-PA	Chromosome_5	3309991	3318347	rplT 50S ribosomal protein L20 (Xanthobacter autotrophicus (strain ATCC BAA-1158 / Py2))	mRP
+TCALIF_07917-PA	Chromosome_5	3198493	3202720	"UQCRC2 Cytochrome b-c1 complex subunit 2, mitochondrial (Bos taurus)"	Comp-III
+TCALIF_09577-PA	Chromosome_5	8274831	8282756	"BCKDHB 2-oxoisovalerate dehydrogenase subunit beta, mitochondrial (Homo sapiens)"	
+TCALIF_10366-PA	Chromosome_5	2446265	2448060	"pcca-1 Propionyl-CoA carboxylase alpha chain, mitochondrial (Caenorhabditis elegans)"	
+TCALIF_10943-PA	Chromosome_5	10364717	10368123	"IDH2 Isocitrate dehydrogenase [NADP], mitochondrial (Fragment) (Sus scrofa)"	
+TCALIF_11389-PA	Chromosome_5	845211	846584	abhd11 Alpha/beta hydrolase domain-containing protein 11 (Danio rerio)	
+TCALIF_11397-PA	Chromosome_5	9510859	9511894	"blw ATP synthase subunit alpha, mitochondrial (Drosophila melanogaster)"	Comp-V
+TCALIF_11398-PA	Chromosome_5	9512009	9515433	"blw ATP synthase subunit alpha, mitochondrial (Drosophila melanogaster)"	Comp-V
+TCALIF_11561-PA	Chromosome_5	5024920	5028590	"CG10219 Putative succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial (Drosophila melanogaster)"	Comp-II
+TCALIF_11779-PA	Chromosome_5	11346160	11348097	"ppl Glycine cleavage system H protein, mitochondrial (Drosophila melanogaster)"	
+TCALIF_11783-PA	Chromosome_5	11422740	11426216	"FAHD1 Acylpyruvase FAHD1, mitochondrial (Homo sapiens)"	
+TCALIF_11833-PA	Chromosome_5	5824243	5838299	"RARS2 Probable arginine--tRNA ligase, mitochondrial (Homo sapiens)"	mtARS
+TCALIF_12478-PA	Chromosome_5	13497024	13498470	Coq7 Ubiquinone biosynthesis protein COQ7 homolog (Fragment) (Rattus norvegicus)	
+TCALIF_12880-PA	Chromosome_5	324993	328149	PROSC Proline synthase co-transcribed bacterial homolog protein (Homo sapiens)	
+TCALIF_13512-PA	Chromosome_5	13606411	13609111	"MRPL43 39S ribosomal protein L43, mitochondrial (Bos taurus)"	mRP
+TCALIF_13814-PA	Chromosome_5	13634754	13636199	"fdxr NADPH:adrenodoxin oxidoreductase, mitochondrial (Salvelinus fontinalis)"	
+TCALIF_15935-PA	Chromosome_5	8173236	8181049	Aldh18a1 Delta-1-pyrroline-5-carboxylate synthase (Mus musculus)	
+TCALIF_15977-PA	Chromosome_5	3804183	3827504	Pacrg Parkin coregulated gene protein homolog (Mus musculus)	
+TCALIF_02255.2-PA	Chromosome_6	2794741	2798718	Ptges2 Prostaglandin E synthase 2 (Mus musculus)	
+TCALIF_02259-PA	Chromosome_6	2828681	2834517	"Trnt1 CCA tRNA nucleotidyltransferase 1, mitochondrial (Mus musculus)"	
+TCALIF_02260-PA	Chromosome_6	2834759	2840654	"Hsp60 60 kDa heat shock protein, mitochondrial (Drosophila melanogaster)"	
+TCALIF_02261-PA	Chromosome_6	2842985	2843832	"SJCHGC01960 10 kDa heat shock protein, mitochondrial (Schistosoma japonicum)"	
+TCALIF_05997-PA	Chromosome_6	6757048	6759292	"AAEL011789 Probable citrate synthase 2, mitochondrial (Aedes aegypti)"	
+TCALIF_06576-PA	Chromosome_6	8431661	8442326	"LTA3 Dihydrolipoyllysine-residue acetyltransferase component 1 of pyruvate dehydrogenase complex, mitochondrial (Arabidopsis thaliana)"	
+TCALIF_06601-PA	Chromosome_6	9220920	9221861	"NDUFAF6 NADH dehydrogenase (ubiquinone) complex I, assembly factor 6 (Bos taurus)"	Comp-I
+TCALIF_06778-PA	Chromosome_6	14285987	14310202	"CG4495 Calcium uptake protein 1 homolog, mitochondrial (Drosophila melanogaster)"	
+TCALIF_06785-PA	Chromosome_6	14206434	14213053	"ND42 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial (Drosophila melanogaster)"	Comp-I
+TCALIF_07053-PA	Chromosome_6	11968732	11971289	"mars2 Methionine--tRNA ligase, mitochondrial (Takifugu rubripes)"	mtARS
+TCALIF_07301-PA	Chromosome_6	14768661	14774246	"Nadk2 NAD kinase 2, mitochondrial (Rattus norvegicus)"	
+TCALIF_07357-PA	Chromosome_6	5783812	5785676	"ABAT 4-aminobutyrate aminotransferase, mitochondrial (Sus scrofa)"	
+TCALIF_07366-PA	Chromosome_6	5705474	5712553	"cyct Cytochrome c, testis-specific (Xenopus laevis)"	
+TCALIF_07371-PA	Chromosome_6	5688909	5690507	UQCRB Cytochrome b-c1 complex subunit 7 (Bos taurus)	Comp-III
+TCALIF_07372-PA	Chromosome_6	5684560	5687341	"ATPsyn-beta ATP synthase subunit beta, mitochondrial (Drosophila melanogaster)"	Comp-V
+TCALIF_07375-PA	Chromosome_6	5659820	5666558	SLC25A11 Mitochondrial 2-oxoglutarate/malate carrier protein (Homo sapiens)	
+TCALIF_07559-PA	Chromosome_6	2600031	2612596	Acly ATP-citrate synthase (Mus musculus)	
+TCALIF_08925-PA	Chromosome_6	14944015	14945745	PHB2 Prohibitin-2 (Bos taurus)	
+TCALIF_08930-PA	Chromosome_6	14967482	14973773	"MICU3 Calcium uptake protein 3, mitochondrial (Homo sapiens)"	
+TCALIF_08938-PA	Chromosome_6	15036721	15038963	"SdhB Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial (Drosophila melanogaster)"	Comp-II
+TCALIF_09795-PA	Chromosome_6	10445343	10447015	"COQ10B Coenzyme Q-binding protein COQ10 homolog B, mitochondrial (Homo sapiens)"	
+TCALIF_09993-PA	Chromosome_6	10812237	10814503	timm23 Mitochondrial import inner membrane translocase subunit Tim23 (Danio rerio)	
+TCALIF_10266-PA	Chromosome_6	2270795	2276668	"DHAR1 Glutathione S-transferase DHAR1, mitochondrial (Arabidopsis thaliana)"	
+TCALIF_11000-PA	Chromosome_6	120002	129042	"aldh4a1 Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial (Danio rerio)"	
+TCALIF_11200-PA	Chromosome_6	4924388	4928285	"Micu3 Calcium uptake protein 3, mitochondrial (Mus musculus)"	
+TCALIF_11733-PA	Chromosome_6	10975037	10980806	"PCCB Propionyl-CoA carboxylase beta chain, mitochondrial (Homo sapiens)"	
+TCALIF_11917-PA	Chromosome_6	9913516	9918906	"SQRDL Sulfide:quinone oxidoreductase, mitochondrial (Homo sapiens)"	
+TCALIF_12103-PA	Chromosome_6	14146228	14148416	"ACADM Medium-chain specific acyl-CoA dehydrogenase, mitochondrial (Bos taurus)"	
+TCALIF_12157-PA	Chromosome_6	5132764	5148527	"OPA1 Dynamin-like 120 kDa protein, mitochondrial (Gallus gallus)"	
+TCALIF_12392-PA	Chromosome_6	1559172	1562810	UBA1 Ubiquitin-like modifier-activating enzyme 1 (Oryctolagus cuniculus)	
+TCALIF_12399-PA	Chromosome_6	1920286	1923203	"Mrpl47 39S ribosomal protein L47, mitochondrial (Mus musculus)"	mRP
+TCALIF_12400-PA	Chromosome_6	1924422	1929584	"Exog Nuclease EXOG, mitochondrial (Mus musculus)"	
+TCALIF_12405-PA	Chromosome_6	11443977	11452270	"Ndufs1 NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial (Rattus norvegicus)"	Comp-I
+TCALIF_12623-PA	Chromosome_6	11275887	11277953	Gfer FAD-linked sulfhydryl oxidase ALR (Mus musculus)	
+TCALIF_12773-PA	Chromosome_6	12385414	12395101	"Mccc2 Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial (Mus musculus)"	
+TCALIF_13378-PA	Chromosome_6	959774	968801	"abcb6 ATP-binding cassette sub-family B member 6, mitochondrial (Xenopus tropicalis)"	
+TCALIF_00193-PA	Chromosome_7	11938467	11939867	"Pdk [Pyruvate dehydrogenase (acetyl-transferring)] kinase, mitochondrial (Drosophila melanogaster)"	
+TCALIF_00236-PA	Chromosome_7	15779183	15780860	"l(1)G0156 Probable isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial (Drosophila melanogaster)"	
+TCALIF_00240-PA	Chromosome_7	15719301	15721560	"iba57 Putative transferase CAF17 homolog, mitochondrial (Danio rerio)"	
+TCALIF_00271-PA	Chromosome_7	7357715	7360482	SPG7 Paraplegin (Homo sapiens)	
+TCALIF_00279-PA	Chromosome_7	7236439	7237563	"Slc25a3 Phosphate carrier protein, mitochondrial (Mus musculus)"	
+TCALIF_00304-PA	Chromosome_7	6976844	6978719	"Ccdc56 Cytochrome c oxidase assembly factor 3, mitochondrial (Drosophila melanogaster)"	Comp-IV
+TCALIF_00986-PA	Chromosome_7	5908191	5911717	Samm50 Sorting and assembly machinery component 50 homolog (Rattus norvegicus)	
+TCALIF_00990-PA	Chromosome_7	5894224	5898895	DHX57 Putative ATP-dependent RNA helicase DHX57 (Homo sapiens)	
+TCALIF_01042-PA	Chromosome_7	5195598	5204642	"acsf3 Acyl-CoA synthetase family member 3, mitochondrial (Xenopus laevis)"	
+TCALIF_01049-PA	Chromosome_7	5171996	5177218	Prdx4 Peroxiredoxin-4 (Mus musculus)	
+TCALIF_01053-PA	Chromosome_7	5164073	5164690	"mRpS6 Probable 28S ribosomal protein S6, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_01054-PA	Chromosome_7	5159375	5162986	"Hadh Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial (Mus musculus)"	
+TCALIF_01062-PA	Chromosome_7	5107010	5122527	PAPOLG Poly(A) polymerase gamma (Homo sapiens)	mtDNA replication
+TCALIF_01111-PA	Chromosome_7	9673394	9677705	Adk2 Adenylate kinase (Drosophila melanogaster)	
+TCALIF_03116-PA	Chromosome_7	8882776	8886749	"NDUFV1 NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial (Bos taurus)"	Comp-I
+TCALIF_03147-PA	Chromosome_7	9162508	9167686	"Abcb10 ATP-binding cassette sub-family B member 10, mitochondrial (Mus musculus)"	
+TCALIF_03151-PA	Chromosome_7	9195859	9200624	"NNT NAD(P) transhydrogenase, mitochondrial (Homo sapiens)"	
+TCALIF_04739-PA	Chromosome_7	4558738	4560258	"L-galactono-1,4-lactone dehydrogenase, mitochondrial (Brassica oleracea)"	
+TCALIF_04747-PA	Chromosome_7	4605347	4606916	"CG4692 Putative ATP synthase subunit f, mitochondrial (Drosophila melanogaster)"	Comp-V
+TCALIF_04770-PA	Chromosome_7	4814555	4817743	"GLRX5 Glutaredoxin-related protein 5, mitochondrial (Homo sapiens)"	
+TCALIF_04777-PA	Chromosome_7	4868197	4868849	"B0513.5 Proline dehydrogenase 1, mitochondrial (Caenorhabditis elegans)"	
+TCALIF_05292-PA	Chromosome_7	1404814	1413075	"DHTKD1 Probable 2-oxoglutarate dehydrogenase E1 component DHKTD1, mitochondrial (Pongo abelii)"	
+TCALIF_05307-PA	Chromosome_7	1186308	1188943	"Aldh6a1 Methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial (Mus musculus)"	
+TCALIF_05380-PA	Chromosome_7	10723342	10726340	Slc25a32 Mitochondrial folate transporter/carrier (Mus musculus)	
+TCALIF_05381-PA	Chromosome_7	10727915	10729849	ETFB Electron transfer flavoprotein subunit beta (Homo sapiens)	
+TCALIF_05393-PA	Chromosome_7	10814478	10830263	"Gls Glutaminase kidney isoform, mitochondrial (Mus musculus)"	
+TCALIF_06080-PA	Chromosome_7	3943319	3944930	SLC25A4 ADP/ATP translocase 1 (Oryctolagus cuniculus)	
+TCALIF_06082-PA	Chromosome_7	3956698	3958260	"AOX1 Alternative oxidase, mitochondrial (Venturia inaequalis)"	
+TCALIF_06087-PA	Chromosome_7	4013861	4015771	Cyp1 Peptidyl-prolyl cis-trans isomerase (Drosophila melanogaster)	
+TCALIF_08451-PA	Chromosome_7	6713510	6718600	"Lipt1 Lipoyltransferase 1, mitochondrial (Mus musculus)"	
+TCALIF_08455-PA	Chromosome_7	6741189	6748350	"PNPT1 Polyribonucleotide nucleotidyltransferase 1, mitochondrial (Pongo abelii)"	
+TCALIF_08584-PA	Chromosome_7	8586402	8590026	ttm50 Mitochondrial import inner membrane translocase subunit TIM50-C (Drosophila melanogaster)	
+TCALIF_08595-PA	Chromosome_7	8669439	8676218	"HADHB Trifunctional enzyme subunit beta, mitochondrial (Bos taurus)"	
+TCALIF_09981-PA	Chromosome_7	11218986	11230562	"PC Pyruvate carboxylase, mitochondrial (Homo sapiens)"	
+TCALIF_10131-PA	Chromosome_7	14000609	14001763	"STARD7 StAR-related lipid transfer protein 7, mitochondrial (Homo sapiens)"	
+TCALIF_10597-PA	Chromosome_7	1434967	1436758	"mRpS25 Probable 28S ribosomal protein S25, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_10610-PA	Chromosome_7	1534165	1536263	"CG12264 Probable cysteine desulfurase, mitochondrial (Drosophila melanogaster)"	
+TCALIF_10856-PA	Chromosome_7	10245374	10252586	mpv17 Protein Mpv17 (Danio rerio)	
+TCALIF_11293-PA	Chromosome_7	6791322	6792083	"MRPL50 39S ribosomal protein L50, mitochondrial (Homo sapiens)"	mRP
+TCALIF_11296-PA	Chromosome_7	6778674	6782204	"Polrmt DNA-directed RNA polymerase, mitochondrial (Mus musculus)"	mtRPOL
+TCALIF_12115-PA	Chromosome_7	6438754	6443532	"AGAP006646 Probable hydroxyacid-oxoacid transhydrogenase, mitochondrial (Anopheles gambiae)"	
+TCALIF_12614-PA	Chromosome_7	8089835	8093947	"mrps-5 Putative 28S ribosomal protein S5, mitochondrial (Caenorhabditis elegans)"	mRP
+TCALIF_13064-PA	Chromosome_7	1548389	1553367	ymel-1 ATP-dependent zinc metalloprotease YME1 homolog (Caenorhabditis elegans)	
+TCALIF_01437-PA	Chromosome_8	2380993	2388574	"METTL17 Methyltransferase-like protein 17, mitochondrial (Homo sapiens)"	
+TCALIF_01459-PA	Chromosome_8	2661250	2664001	"AUH Methylglutaconyl-CoA hydratase, mitochondrial (Homo sapiens)"	
+TCALIF_01460-PA	Chromosome_8	2665548	2667698	"PYCR1 Pyrroline-5-carboxylate reductase 1, mitochondrial (Bos taurus)"	
+TCALIF_01480-PA	Chromosome_8	2944741	2946700	"NDUFS3 NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial (Pongo pygmaeus)"	Comp-I
+TCALIF_01498-PA	Chromosome_8	3075510	3077408	"MMAB Cob(I)yrinic acid a,c-diamide adenosyltransferase, mitochondrial (Homo sapiens)"	
+TCALIF_01757-PA	Chromosome_8	10846674	10848650	"Trap1 Heat shock protein 75 kDa, mitochondrial (Mus musculus)"	
+TCALIF_01760-PA	Chromosome_8	10828021	10830610	Oxa1l Mitochondrial inner membrane protein OXA1L (Mus musculus)	
+TCALIF_01762-PA	Chromosome_8	10811896	10819578	"TDH L-threonine 3-dehydrogenase, mitochondrial (Bos taurus)"	
+TCALIF_01789-PA	Chromosome_8	10547454	10552479	ACOT13 Acyl-coenzyme A thioesterase 13 (Pongo abelii)	
+TCALIF_01800-PA	Chromosome_8	10358406	10359828	"mRpL10 39S ribosomal protein L10, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_01802-PA	Chromosome_8	10348681	10355608	"WARS2 Tryptophan--tRNA ligase, mitochondrial (Bos taurus)"	mtARS
+TCALIF_02132-PA	Chromosome_8	6588283	6589459	CG3021 Mitochondrial tRNA-specific 2-thiouridylase 1 (Drosophila melanogaster)	
+TCALIF_02133-PA	Chromosome_8	6579580	6585510	"MTHFD1 C-1-tetrahydrofolate synthase, cytoplasmic (Homo sapiens)"	
+TCALIF_02146-PA	Chromosome_8	6410843	6419106	IDE Insulin-degrading enzyme (Bos taurus)	
+TCALIF_02149-PA	Chromosome_8	6395067	6397734	"Decr1 2,4-dienoyl-CoA reductase, mitochondrial (Rattus norvegicus)"	
+TCALIF_02171-PA	Chromosome_8	6243386	6248415	"GPD2 Glycerol-3-phosphate dehydrogenase, mitochondrial (Homo sapiens)"	
+TCALIF_03196-PA	Chromosome_8	11054256	11058186	Ndufa7 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 7 (Mus musculus)	Comp-I
+TCALIF_03197-PA	Chromosome_8	11047987	11048978	"mRpS26 Probable 28S ribosomal protein S26, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_03710-PA	Chromosome_8	837071	839139	"UQCRFS1 Cytochrome b-c1 complex subunit Rieske, mitochondrial (Lagothrix lagotricha)"	Comp-III
+TCALIF_03717-PA	Chromosome_8	699729	700716	"PTRH2 Peptidyl-tRNA hydrolase 2, mitochondrial (Homo sapiens)"	
+TCALIF_03720-PA	Chromosome_8	690825	697346	NPEPL1 Probable aminopeptidase NPEPL1 (Pongo abelii)	
+TCALIF_04173-PA	Chromosome_8	13886833	13887417	NDUFAF3 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 3 (Bos taurus)	Comp-I
+TCALIF_04175-PA	Chromosome_8	13865545	13866527	"COX4I1 Cytochrome c oxidase subunit 4 isoform 1, mitochondrial (Fragment) (Theropithecus gelada)"	Comp-IV
+TCALIF_04181-PA	Chromosome_8	13790566	13791435	Protein of unknown function	mRP
+TCALIF_04183-PA	Chromosome_8	13785272	13786309	PISD Phosphatidylserine decarboxylase proenzyme (Pongo abelii)	
+TCALIF_04195-PA	Chromosome_8	13699666	13701825	"Dbt Lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial (Mus musculus)"	
+TCALIF_04388-PA	Chromosome_8	14654948	14656132	"SDHC Succinate dehydrogenase cytochrome b560 subunit, mitochondrial (Cricetulus griseus)"	Comp-II
+TCALIF_05707-PA	Chromosome_8	3883527	3884285	"Ubiquinone biosynthesis protein COQ4 homolog, mitochondrial (Bombyx mori)"	
+TCALIF_05721-PA	Chromosome_8	5137094	5138074	"SLC25A1 Tricarboxylate transport protein, mitochondrial (Bos taurus)"	
+TCALIF_05729-PA	Chromosome_8	5694040	5695677	"CG7280 Probable sulfite oxidase, mitochondrial (Drosophila melanogaster)"	
+TCALIF_05735-PA	Chromosome_8	5676599	5679011	Bcs1l Mitochondrial chaperone BCS1 (Mus musculus)	
+TCALIF_06667-PA	Chromosome_8	9895649	9896898	"COX5B Cytochrome c oxidase subunit 5B, mitochondrial (Homo sapiens)"	Comp-IV
+TCALIF_06670-PA	Chromosome_8	9911143	9912618	"mRpL32 39S ribosomal protein L32, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_07454-PA	Chromosome_8	12682823	12683446	"MRPS18B 28S ribosomal protein S18b, mitochondrial (Macaca mulatta)"	mRP
+TCALIF_07457-PA	Chromosome_8	12663130	12665612	"CG7506 Transmembrane protein 70 homolog, mitochondrial (Drosophila melanogaster)"	
+TCALIF_07977-PA	Chromosome_8	15509657	15513446	"Amt Aminomethyltransferase, mitochondrial (Mus musculus)"	
+TCALIF_09098-PA	Chromosome_8	3487771	3488678	Ndufb9 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9 (Mus musculus)	Comp-I
+TCALIF_09099-PA	Chromosome_8	3488775	3493324	"MTO1 Protein MTO1 homolog, mitochondrial (Macaca fascicularis)"	
+TCALIF_09100-PA	Chromosome_8	3494278	3494601	cmc2 COX assembly mitochondrial protein 2 homolog (Danio rerio)	
+TCALIF_09248-PA	Chromosome_8	3530172	3531533	Timm44 Mitochondrial import inner membrane translocase subunit TIM44 (Mus musculus)	
+TCALIF_09253-PA	Chromosome_8	3557922	3560860	"SHMT1 Serine hydroxymethyltransferase, cytosolic (Ovis aries)"	
+TCALIF_10558-PA	Chromosome_8	9164829	9166414	"MRPL15 39S ribosomal protein L15, mitochondrial (Gallus gallus)"	mRP
+TCALIF_10637-PA	Chromosome_8	14037271	14046676	"mRpL39 39S ribosomal protein L39, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_10715-PA	Chromosome_8	7947508	7948356	Plip Phosphatidylglycerophosphatase and protein-tyrosine phosphatase 1 (Drosophila melanogaster)	
+TCALIF_10922-PA	Chromosome_8	7652744	7653992	"Aats-phe Probable phenylalanine--tRNA ligase, mitochondrial (Drosophila melanogaster)"	mtARS
+TCALIF_10924-PA	Chromosome_8	7633473	7639888	BPHL Valacyclovir hydrolase (Homo sapiens)	
+TCALIF_11079-PA	Chromosome_8	1963396	1967074	"v1g172254 L-2-hydroxyglutarate dehydrogenase, mitochondrial (Nematostella vectensis)"	
+TCALIF_11322-PA	Chromosome_8	13909864	13912212	"Mccc1 Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial (Rattus norvegicus)"	
+TCALIF_12552-PA	Chromosome_8	1971144	1995418	"MRPL3 39S ribosomal protein L3, mitochondrial (Bos taurus)"	mRP
+TCALIF_12806.2-PA	Chromosome_8	7750120	7751139	HSD17B10 3-hydroxyacyl-CoA dehydrogenase type-2 (Bos taurus)	
+TCALIF_12968-PA	Chromosome_8	8553313	8558135	"Got2 Aspartate aminotransferase, mitochondrial (Mus musculus)"	
+TCALIF_13017-PA	Chromosome_8	8082026	8082316	Tim10 Mitochondrial import inner membrane translocase subunit Tim10 (Drosophila melanogaster)	
+TCALIF_13304-PA	Chromosome_8	7797488	7800177	timm21 Mitochondrial import inner membrane translocase subunit Tim21 (Xenopus laevis)	
+TCALIF_13521-PA	Chromosome_8	8681049	8683422	"MSS51 Putative protein MSS51 homolog, mitochondrial (Homo sapiens)"	
+TCALIF_13529-PA	Chromosome_8	6995384	6995707	Rnaseh1 Ribonuclease H1 (Rattus norvegicus)	
+TCALIF_13790-PA	Chromosome_8	10102309	10104240	"Mtif2 Translation initiation factor IF-2, mitochondrial (Mus musculus)"	IF
+TCALIF_13866-PA	Chromosome_8	13172633	13174341	"mRpL22 39S ribosomal protein L22, mitochondrial (Drosophila pseudoobscura pseudoobscura)"	mRP
+TCALIF_13904-PA	Chromosome_8	7543206	7544397	"ATP synthase subunit epsilon, mitochondrial (Ipomoea batatas)"	Comp-V
+TCALIF_13998-PA	Chromosome_8	243522	245317	"Myg1 UPF0160 protein MYG1, mitochondrial (Mus musculus)"	
+TCALIF_14914-PA	Chromosome_8	992584	1001350	"D10Jhu81e ES1 protein homolog, mitochondrial (Mus musculus)"	
+TCALIF_14940-PA	Chromosome_8	13944024	13945043	Adck2 Uncharacterized aarF domain-containing protein kinase 2 (Mus musculus)	
+TCALIF_01166-PA	Chromosome_9	2451796	2453501	CLPB Caseinolytic peptidase B protein homolog (Bos taurus)	
+TCALIF_01170-PA	Chromosome_9	2359557	2375878	"MRPL44 39S ribosomal protein L44, mitochondrial (Bos taurus)"	mRP
+TCALIF_01172-PA	Chromosome_9	2337382	2339637	Noa1 Nitric oxide-associated protein 1 (Mus musculus)	
+TCALIF_01174-PA	Chromosome_9	2288634	2291165	"C1qbp Complement component 1 Q subcomponent-binding protein, mitochondrial (Rattus norvegicus)"	
+TCALIF_01175-PA	Chromosome_9	2281644	2284855	"coq5 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial (Danio rerio)"	
+TCALIF_01179-PA	Chromosome_9	2264285	2265403	"Mterfd1 mTERF domain-containing protein 1, mitochondrial (Mus musculus)"	
+TCALIF_01189-PA	Chromosome_9	2191785	2195127	"FH Fumarate hydratase, mitochondrial (Macaca fascicularis)"	
+TCALIF_01219-PA	Chromosome_9	1903318	1909005	ACO1 Cytoplasmic aconitate hydratase (Homo sapiens)	
+TCALIF_01255-PA	Chromosome_9	1523655	1529041	RNMTL1 RNA methyltransferase-like protein 1 (Homo sapiens)	
+TCALIF_02369-PA	Chromosome_9	6114547	6116125	Ndufa4 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 4 (Mus musculus)	Comp-I
+TCALIF_02370-PA	Chromosome_9	6117003	6118027	"Ndufs6 NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial (Rattus norvegicus)"	Comp-I
+TCALIF_02405-PA	Chromosome_9	12697828	12702350	Mutyh A/G-specific adenine DNA glycosylase (Mus musculus)	
+TCALIF_02450-PA	Chromosome_9	12164753	12170248	Ppp1cc Serine/threonine-protein phosphatase PP1-gamma catalytic subunit (Rattus norvegicus)	
+TCALIF_02796-PA	Chromosome_9	9794330	9796289	"Guf1 Translation factor Guf1, mitochondrial (Mus musculus)"	Trans. Factor
+TCALIF_02860-PA	Chromosome_9	3248900	3251901	"ALAS1 5-aminolevulinate synthase, nonspecific, mitochondrial (Bos taurus)"	
+TCALIF_02862-PA	Chromosome_9	3243476	3243880	blos1 Biogenesis of lysosome-related organelles complex 1 subunit 1 (Drosophila melanogaster)	
+TCALIF_02866-PA	Chromosome_9	3238207	3240913	"BCKDK [3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase, mitochondrial (Homo sapiens)"	
+TCALIF_02871-PA	Chromosome_9	3179669	3180729	"ppm1k Protein phosphatase 1K, mitochondrial (Xenopus laevis)"	
+TCALIF_02874-PA	Chromosome_9	3165543	3167228	"ATPsyn-gamma ATP synthase subunit gamma, mitochondrial (Drosophila melanogaster)"	Comp-V
+TCALIF_02882-PA	Chromosome_9	3082751	3083902	FDPS Farnesyl pyrophosphate synthase (Homo sapiens)	
+TCALIF_02897-PA	Chromosome_9	2933481	2940878	Slc25a16 Graves disease carrier protein homolog (Mus musculus)	
+TCALIF_02901-PA	Chromosome_9	2889385	2892181	"CG4679 Protein PTCD3 homolog, mitochondrial (Drosophila melanogaster)"	
+TCALIF_04272-PA	Chromosome_9	242865	247058	"SPAC4G8.09 Putative leucine--tRNA ligase, mitochondrial (Schizosaccharomyces pombe (strain 972 / ATCC 24843))"	mtARS
+TCALIF_04816-PA	Chromosome_9	6549759	6552412	Rpusd4 RNA pseudouridylate synthase domain-containing protein 4 (Rattus norvegicus)	
+TCALIF_04840-PA	Chromosome_9	6785168	6792636	ALDH7A1 Alpha-aminoadipic semialdehyde dehydrogenase (Bos taurus)	
+TCALIF_04879-PA	Chromosome_9	4722432	4723874	"gtpbp3 tRNA modification GTPase GTPBP3, mitochondrial (Danio rerio)"	
+TCALIF_04880-PA	Chromosome_9	4724291	4725564	"pgam5 Serine/threonine-protein phosphatase PGAM5, mitochondrial (Danio rerio)"	
+TCALIF_04881-PA	Chromosome_9	4725597	4727933	psen2 Presenilin-2 (Danio rerio)	
+TCALIF_05188-PA	Chromosome_9	10978795	10986754	ETNPPL Ethanolamine-phosphate phospho-lyase (Homo sapiens)	
+TCALIF_05927-PA	Chromosome_9	10400684	10411865	"ATP5S ATP synthase subunit s, mitochondrial (Bos taurus)"	
+TCALIF_05935-PA	Chromosome_9	10562352	10563200	"Echdc3 Enoyl-CoA hydratase domain-containing protein 3, mitochondrial (Rattus norvegicus)"	
+TCALIF_06144-PA	Chromosome_9	14993455	14998485	"ACSF2 Acyl-CoA synthetase family member 2, mitochondrial (Macaca fascicularis)"	
+TCALIF_06536-PA	Chromosome_9	13508957	13512831	NIF3L1 Putative GTP cyclohydrolase 1 type 2 NIF3L1 (Homo sapiens)	
+TCALIF_06541-PA	Chromosome_9	13455716	13458423	Nurf-38 Inorganic pyrophosphatase (Drosophila melanogaster)	
+TCALIF_06653-PA	Chromosome_9	8136114	8141671	AAEL000794 Clustered mitochondria protein homolog (Aedes aegypti)	
+TCALIF_07328-PA	Chromosome_9	2516409	2518884	"EARS2 Probable glutamate--tRNA ligase, mitochondrial (Gallus gallus)"	mtARS
+TCALIF_07332-PA	Chromosome_9	2562315	2563286	"HMGCL Hydroxymethylglutaryl-CoA lyase, mitochondrial (Macaca fascicularis)"	
+TCALIF_07517-PA	Chromosome_9	5436193	5437617	trmt10c Mitochondrial ribonuclease P protein 1 homolog (Drosophila melanogaster)	
+TCALIF_08257-PA	Chromosome_9	1395825	1396838	"Ivd Isovaleryl-CoA dehydrogenase, mitochondrial (Mus musculus)"	
+TCALIF_08724-PA	Chromosome_9	9310890	9317466	"Lonp1 Lon protease homolog, mitochondrial (Rattus norvegicus)"	
+TCALIF_09288-PA	Chromosome_9	9127149	9130110	"Mrpl2 39S ribosomal protein L2, mitochondrial (Mus musculus)"	mRP
+TCALIF_09289-PA	Chromosome_9	9124999	9128737	Xpnpep3 Probable Xaa-Pro aminopeptidase 3 (Rattus norvegicus)	
+TCALIF_09297-PA	Chromosome_9	9043770	9044612	"mRpL35 39S ribosomal protein L35, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_09299-PA	Chromosome_9	9025359	9032478	"MRPL28 39S ribosomal protein L28, mitochondrial (Bos taurus)"	mRP
+TCALIF_09414-PA	Chromosome_9	11884989	11893006	"slgA Proline dehydrogenase 1, mitochondrial (Drosophila melanogaster)"	
+TCALIF_09677-PA	Chromosome_9	4324789	4325667	"Mrpl30 39S ribosomal protein L30, mitochondrial (Rattus norvegicus)"	mRP
+TCALIF_09685-PA	Chromosome_9	4381855	4392681	glt1 Putative glutamate synthase [NADPH] (Schizosaccharomyces pombe (strain 972 / ATCC 24843))	
+TCALIF_10027-PA	Chromosome_9	8966596	8985226	"Oat Ornithine aminotransferase, mitochondrial (Drosophila melanogaster)"	
+TCALIF_10115-PA	Chromosome_9	11622050	11634068	"REXO2 Oligoribonuclease, mitochondrial (Bos taurus)"	
+TCALIF_10297-PA	Chromosome_9	4949755	4950243	Mtfp1 Mitochondrial fission process protein 1 (Mus musculus)	
+TCALIF_12355-PA	Chromosome_9	9175689	9177958	"chchd6 Coiled-coil-helix-coiled-coil-helix domain-containing protein 6, mitochondrial (Xenopus tropicalis)"	
+TCALIF_12747-PA	Chromosome_9	9420921	9425041	POLDIP2 Polymerase delta-interacting protein 2 (Homo sapiens)	
+TCALIF_12750-PA	Chromosome_9	9433667	9435537	Timm17b Mitochondrial import inner membrane translocase subunit Tim17-B (Mus musculus)	
+TCALIF_12937-PA	Chromosome_9	14955727	14957965	"ACSF2 Acyl-CoA synthetase family member 2, mitochondrial (Macaca fascicularis)"	
+TCALIF_13290-PA	Chromosome_9	10706550	10709110	Adck1 Uncharacterized aarF domain-containing protein kinase 1 (Mus musculus)	
+TCALIF_16413-PA	Chromosome_9	15454496	15459276	"Cox6a1 Cytochrome c oxidase subunit 6A1, mitochondrial (Rattus norvegicus)"	Comp-IV
+TCALIF_00319-PA	Chromosome_10	6659757	6661013	bcs1l Mitochondrial chaperone BCS1 (Danio rerio)	
+TCALIF_00329-PA	Chromosome_10	6702722	6710660	GK3P Putative glycerol kinase 3 (Homo sapiens)	
+TCALIF_00331-PA	Chromosome_10	6713225	6714194	"NDUFB11 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 11, mitochondrial (Gorilla gorilla gorilla)"	Comp-I
+TCALIF_00342-PA	Chromosome_10	6764528	6766827	PMPCA Mitochondrial-processing peptidase subunit alpha (Bos taurus)	
+TCALIF_00345-PA	Chromosome_10	6779763	6780185	"RPP14 Hydroxyacyl-thioester dehydratase type 2, mitochondrial (Homo sapiens)"	
+TCALIF_00347-PA	Chromosome_10	6783769	6786330	NDUFA2 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 2 (Pongo pygmaeus)	Comp-I
+TCALIF_00350-PA	Chromosome_10	6788082	6789308	"ndufaf7 NADH dehydrogenase [ubiquinone] complex I, assembly factor 7 (Xenopus tropicalis)"	Comp-I
+TCALIF_00361-PA	Chromosome_10	6847878	6851533	"Acads Short-chain specific acyl-CoA dehydrogenase, mitochondrial (Rattus norvegicus)"	
+TCALIF_00365-PA	Chromosome_10	6852424	6855535	"mrpl14 39S ribosomal protein L14, mitochondrial (Danio rerio)"	mRP
+TCALIF_00403-PA	Chromosome_10	7067434	7071948	"39S ribosomal protein S34, mitochondrial"	mRP
+TCALIF_00409-PA	Chromosome_10	7082870	7087297	Cecr5 Cat eye syndrome critical region protein 5 homolog (Mus musculus)	
+TCALIF_00422-PA	Chromosome_10	7121817	7122161	tin-9.1 Mitochondrial import inner membrane translocase subunit Tim9 (Caenorhabditis briggsae)	
+TCALIF_00434-PA	Chromosome_10	7197815	7198366	"mRpL13 39S ribosomal protein L13, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_00436-PA	Chromosome_10	7203059	7203673	"mRpS10 28S ribosomal protein S10, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_00437-PA	Chromosome_10	7205717	7207480	"Diablo Diablo homolog, mitochondrial (Mus musculus)"	
+TCALIF_00446-PA	Chromosome_10	7270621	7271721	"nudt19 Nucleoside diphosphate-linked moiety X motif 19, mitochondrial (Xenopus laevis)"	
+TCALIF_00453-PA	Chromosome_10	7297728	7300251	"beg Probable malonyl-CoA-acyl carrier protein transacylase, mitochondrial (Drosophila melanogaster)"	
+TCALIF_00456-PA	Chromosome_10	7318765	7319478	"COX11 Cytochrome c oxidase assembly protein COX11, mitochondrial (Homo sapiens)"	Comp-IV
+TCALIF_00457-PA	Chromosome_10	7319534	7321513	"ACAD9 Acyl-CoA dehydrogenase family member 9, mitochondrial (Homo sapiens)"	
+TCALIF_00463-PA	Chromosome_10	7363598	7363960	Tim14 Mitochondrial import inner membrane translocase subunit TIM14 (Drosophila melanogaster)	
+TCALIF_00465-PA	Chromosome_10	7364523	7365407	"sirt5 NAD-dependent protein deacylase sirtuin-5, mitochondrial (Danio rerio)"	
+TCALIF_00485-PA	Chromosome_10	7509043	7512780	"ISCA2 Iron-sulfur cluster assembly 2 homolog, mitochondrial (Homo sapiens)"	
+TCALIF_00781-PA	Chromosome_10	8090604	8098130	"IDH3G Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial (Fragment) (Macaca fascicularis)"	
+TCALIF_00782-PA	Chromosome_10	8098137	8099583	SURF1 Surfeit locus protein 1 (Homo sapiens)	
+TCALIF_00784-PA	Chromosome_10	8103546	8108961	"JhI-1 Ribonuclease Z, mitochondrial (Drosophila melanogaster)"	
+TCALIF_00807-PA	Chromosome_10	8183044	8192230	"NDUFB8 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial (Bos taurus)"	Comp-I
+TCALIF_00834-PA	Chromosome_10	8380188	8383881	AIFM3 Apoptosis-inducing factor 3 (Homo sapiens)	
+TCALIF_00843-PA	Chromosome_10	8416913	8418377	Rdh13 Retinol dehydrogenase 13 (Mus musculus)	
+TCALIF_00848-PA	Chromosome_10	8440497	8441174	"NDUFS7 NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial (Bos taurus)"	Comp-I
+TCALIF_00849-PA	Chromosome_10	8455100	8455681	"Ndufs4 NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial (Rattus norvegicus)"	Comp-I
+TCALIF_00859-PA	Chromosome_10	8521612	8522100	"CISD3 CDGSH iron-sulfur domain-containing protein 3, mitochondrial (Homo sapiens)"	
+TCALIF_00864-PA	Chromosome_10	8531571	8532281	"AK3 GTP:AMP phosphotransferase AK3, mitochondrial (Homo sapiens)"	
+TCALIF_00867-PA	Chromosome_10	8541344	8541876	Chchd4 Mitochondrial intermembrane space import and assembly protein 40 (Mus musculus)	
+TCALIF_01832-PA	Chromosome_10	4230077	4233879	"MMADHC Methylmalonic aciduria and homocystinuria type D homolog, mitochondrial (Gallus gallus)"	
+TCALIF_01851-PA	Chromosome_10	4342230	4342571	"Mrps33 28S ribosomal protein S33, mitochondrial (Mus musculus)"	mRP
+TCALIF_01852-PA	Chromosome_10	4342644	4342922	coa5 Cytochrome c oxidase assembly factor 5 (Xenopus tropicalis)	Comp-IV
+TCALIF_02044-PA	Chromosome_10	11875466	11880267	"Atp5d ATP synthase subunit delta, mitochondrial (Mus musculus)"	Comp-V
+TCALIF_02050-PA	Chromosome_10	11900161	11902418	CCT7 T-complex protein 1 subunit eta (Gallus gallus)	
+TCALIF_02076-PA	Chromosome_10	12069887	12076526	"LDHD Probable D-lactate dehydrogenase, mitochondrial (Homo sapiens)"	
+TCALIF_02610-PA	Chromosome_10	4793345	4793927	"mrpl54 39S ribosomal protein L54, mitochondrial (Danio rerio)"	mRP
+TCALIF_02622-PA	Chromosome_10	4889834	4897072	Ccbl2 Kynurenine--oxoglutarate transaminase 3 (Mus musculus)	
+TCALIF_03551-PA	Chromosome_10	11355055	11360477	"CPT2 Carnitine O-palmitoyltransferase 2, mitochondrial (Bos taurus)"	
+TCALIF_03579-PA	Chromosome_10	11071638	11076799	CRAT Carnitine O-acetyltransferase (Columba livia)	
+TCALIF_03601-PA	Chromosome_10	10983486	10989787	"Pink1 Serine/threonine-protein kinase PINK1, mitochondrial (Mus musculus)"	
+TCALIF_03613-PA	Chromosome_10	9672593	9683867	"Gls Glutaminase kidney isoform, mitochondrial (Mus musculus)"	
+TCALIF_03629-PA	Chromosome_10	9814646	9815476	Slc25a26 S-adenosylmethionine mitochondrial carrier protein (Mus musculus)	
+TCALIF_03631-PA	Chromosome_10	9821834	9823276	"l(2)tid Protein tumorous imaginal discs, mitochondrial (Drosophila virilis)"	
+TCALIF_03923-PA	Chromosome_10	15671873	15673648	"DDB_G0271866 3-hydroxybutyryl-CoA dehydratase-like protein, mitochondrial (Dictyostelium discoideum)"	
+TCALIF_03980-PA	Chromosome_10	3315611	3316135	"MRPS11 28S ribosomal protein S11, mitochondrial (Homo sapiens)"	mRP
+TCALIF_03981-PA	Chromosome_10	3295166	3313054	"AADAT Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial (Bos taurus)"	
+TCALIF_04298-PA	Chromosome_10	15147192	15148471	"PRDX5 Peroxiredoxin-5, mitochondrial (Homo sapiens)"	
+TCALIF_04625-PA	Chromosome_10	4011042	4012034	CMC1 COX assembly mitochondrial protein homolog (Bos taurus)	
+TCALIF_04903-PA	Chromosome_10	13741284	13746325	"CG9791 ATP-dependent RNA helicase SUV3 homolog, mitochondrial (Drosophila melanogaster)"	
+TCALIF_04913-PA	Chromosome_10	13866217	13868484	"F23B12.5 Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial (Caenorhabditis elegans)"	
+TCALIF_04925-PA	Chromosome_10	13928864	13930975	"Gfm2 Ribosome-releasing factor 2, mitochondrial (Mus musculus)"	
+TCALIF_05566-PA	Chromosome_10	7657847	7662808	SUGCT Succinate--hydroxymethylglutarate CoA-transferase (Homo sapiens)	
+TCALIF_05575-PA	Chromosome_10	7703929	7718862	"mcu Calcium uniporter protein, mitochondrial (Danio rerio)"	
+TCALIF_05578-PA	Chromosome_10	7728073	7728510	"SPAC4H3.07c Putative thiosulfate sulfurtransferase, mitochondrial (Schizosaccharomyces pombe (strain 972 / ATCC 24843))"	
+TCALIF_05579-PA	Chromosome_10	7728670	7732101	"lrpprc Leucine-rich PPR motif-containing protein, mitochondrial (Xenopus tropicalis)"	
+TCALIF_05580-PA	Chromosome_10	7732882	7735204	"Oscp ATP synthase subunit O, mitochondrial (Drosophila melanogaster)"	Comp-V
+TCALIF_05591-PA	Chromosome_10	7778902	7780397	"tko 40S ribosomal protein S12, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_05593-PA	Chromosome_10	7786418	7789071	"Aifm1 Apoptosis-inducing factor 1, mitochondrial (Rattus norvegicus)"	
+TCALIF_05595-PA	Chromosome_10	7795377	7796099	"lipt2 Putative lipoyltransferase 2, mitochondrial (Danio rerio)"	
+TCALIF_05603-PA	Chromosome_10	7831640	7839334	"pdhk-2 Probable [pyruvate dehydrogenase (acetyl-transferring)] kinase, mitochondrial (Caenorhabditis elegans)"	
+TCALIF_05607-PA	Chromosome_10	7881740	7882739	"ATPsyn-d ATP synthase subunit d, mitochondrial (Drosophila melanogaster)"	Comp-V
+TCALIF_05761-PA	Chromosome_10	14443223	14452036	"ttc19 Tetratricopeptide repeat protein 19, mitochondrial (Danio rerio)"	
+TCALIF_05769-PA	Chromosome_10	14511239	14512079	Mgst1 Microsomal glutathione S-transferase 1 (Mus musculus)	
+TCALIF_07153-PA	Chromosome_10	6538058	6546247	"abcb8 ATP-binding cassette sub-family B member 8, mitochondrial (Danio rerio)"	
+TCALIF_07283-PA	Chromosome_10	6261297	6263662	"ABCB7 ATP-binding cassette sub-family B member 7, mitochondrial (Homo sapiens)"	
+TCALIF_07284-PA	Chromosome_10	6263729	6265174	"Mss51 Putative protein MSS51 homolog, mitochondrial (Mus musculus)"	
+TCALIF_07285-PA	Chromosome_10	6265962	6267341	"agk Acylglycerol kinase, mitochondrial (Danio rerio)"	
+TCALIF_07290-PA	Chromosome_10	6275272	6278970	Hemk1 HemK methyltransferase family member 1 (Mus musculus)	
+TCALIF_07947-PA	Chromosome_10	13155938	13158102	park7 Protein DJ-1 (Danio rerio)	
+TCALIF_07957-PA	Chromosome_10	13233229	13234194	RDH13 Retinol dehydrogenase 13 (Homo sapiens)	
+TCALIF_07964-PA	Chromosome_10	13243593	13246693	"Coq3 Hexaprenyldihydroxybenzoate methyltransferase, mitochondrial (Rattus norvegicus)"	
+TCALIF_07966-PA	Chromosome_10	13259185	13267643	SLC25A25 Calcium-binding mitochondrial carrier protein SCaMC-2 (Homo sapiens)	
+TCALIF_08187-PA	Chromosome_10	5477806	5481289	"Dars2 Aspartate--tRNA ligase, mitochondrial (Rattus norvegicus)"	mtARS
+TCALIF_08188-PA	Chromosome_10	5475059	5479351	"PDPR Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial (Bos taurus)"	
+TCALIF_08200-PA	Chromosome_10	5400302	5403317	FAM210A Protein FAM210A (Gallus gallus)	
+TCALIF_08202-PA	Chromosome_10	5398865	5400071	Ndufaf4 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 4 (Rattus norvegicus)	Comp-I
+TCALIF_08216-PA	Chromosome_10	5285442	5289256	"pitrm1 Presequence protease, mitochondrial (Xenopus laevis)"	
+TCALIF_08681-PA	Chromosome_10	8034683	8037130	"Mut Methylmalonyl-CoA mutase, mitochondrial (Mus musculus)"	
+TCALIF_08696-PA	Chromosome_10	7966194	7970220	CG6388 Probable tRNA (guanine(26)-N(2))-dimethyltransferase (Drosophila melanogaster)	
+TCALIF_09023-PA	Chromosome_10	13530808	13532390	"MRPL46 39S ribosomal protein L46, mitochondrial (Bos taurus)"	mRP
+TCALIF_10247-PA	Chromosome_10	1412647	1423291	"BRAFLDRAFT_270748 Glutamyl-tRNA(Gln) amidotransferase subunit C, mitochondrial (Branchiostoma floridae)"	
+TCALIF_10253-PA	Chromosome_10	1486659	1499802	ABCD2 ATP-binding cassette sub-family D member 2 (Homo sapiens)	
+TCALIF_10340-PA	Chromosome_10	3433729	3435517	NT5C3A Cytosolic 5'-nucleotidase 3A (Gallus gallus)	
+TCALIF_10348-PA	Chromosome_10	3394473	3396143	"NDUFS8 NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial (Bos taurus)"	Comp-I
+TCALIF_10899-PA	Chromosome_10	10770527	10772428	"Mrps28 28S ribosomal protein S28, mitochondrial (Mus musculus)"	mRP
+TCALIF_10982-PA	Chromosome_10	13394698	13424918	"coq2 4-hydroxybenzoate polyprenyltransferase, mitochondrial (Aedes aegypti)"	
+TCALIF_11042-PA	Chromosome_10	14228941	14230324	"ATP synthase lipid-binding protein, mitochondrial (Manduca sexta)"	Comp-V
+TCALIF_11167-PA	Chromosome_10	10792595	10796852	"Chdh Choline dehydrogenase, mitochondrial (Mus musculus)"	
+TCALIF_11405-PA	Chromosome_10	10555981	10557585	"gatA Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial (Anopheles gambiae)"	
+TCALIF_11409-PA	Chromosome_10	10564082	10567231	"IDH3B Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial (Homo sapiens)"	
+TCALIF_11566-PA	Chromosome_10	1232981	1237550	"Eci1 Enoyl-CoA delta isomerase 1, mitochondrial (Rattus norvegicus)"	
+TCALIF_11664-PA	Chromosome_10	10130458	10132406	foxred1 FAD-dependent oxidoreductase domain-containing protein 1 (Xenopus laevis)	
+TCALIF_11958-PA	Chromosome_10	15406470	15409892	"TUFM Elongation factor Tu, mitochondrial (Bos taurus)"	EF
+TCALIF_12303-PA	Chromosome_10	525421	529804	Pdss2 Decaprenyl-diphosphate synthase subunit 2 (Rattus norvegicus)	
+TCALIF_12305-PA	Chromosome_10	512639	514881	Gstk1 Glutathione S-transferase kappa 1 (Mus musculus)	
+TCALIF_12594-PA	Chromosome_10	13436411	13437397	"CLYBL Citrate lyase subunit beta-like protein, mitochondrial (Homo sapiens)"	
+TCALIF_12602-PA	Chromosome_10	13479590	13483015	POLG DNA polymerase subunit gamma-1 (Homo sapiens)	mtDNA replication
+TCALIF_12964-PA	Chromosome_10	12652900	12655024	"MARS Methionine--tRNA ligase, cytoplasmic (Homo sapiens)"	mtARS
+TCALIF_12965-PA	Chromosome_10	12640727	12645876	mrs2 Mitochondrial inner membrane magnesium transporter mrs2 (Schizosaccharomyces pombe (strain 972 / ATCC 24843))	
+TCALIF_13733-PA	Chromosome_10	4437489	4439699	"PEO1 Twinkle protein, mitochondrial (Homo sapiens)"	mtDNA replication
+TCALIF_01691-PA	Chromosome_11	9959888	9971140	"Gls Glutaminase kidney isoform, mitochondrial (Mus musculus)"	
+TCALIF_01724-PA	Chromosome_11	9619417	9624033	"sdha Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial (Danio rerio)"	Comp-II
+TCALIF_01748-PA	Chromosome_11	9411229	9413559	Aldh1l2 Mitochondrial 10-formyltetrahydrofolate dehydrogenase (Mus musculus)	
+TCALIF_04222-PA	Chromosome_11	6734223	6735476	"ETFA Electron transfer flavoprotein subunit alpha, mitochondrial (Homo sapiens)"	
+TCALIF_04226-PA	Chromosome_11	6750074	6755349	"HADHA Trifunctional enzyme subunit alpha, mitochondrial (Homo sapiens)"	
+TCALIF_04256-PA	Chromosome_11	7125187	7126807	"ATP5L ATP synthase subunit g, mitochondrial (Homo sapiens)"	Comp-V
+TCALIF_05000-PA	Chromosome_11	3696728	3699330	COX18 Mitochondrial inner membrane protein COX18 (Homo sapiens)	
+TCALIF_05002-PA	Chromosome_11	3704847	3707038	"MRRF Ribosome-recycling factor, mitochondrial (Bos taurus)"	
+TCALIF_06151-PA	Chromosome_11	11973002	11981434	"BCKDHA 2-oxoisovalerate dehydrogenase subunit alpha, mitochondrial (Bos taurus)"	
+TCALIF_06152-PA	Chromosome_11	11981482	11982897	"SPAC4H3.07c Putative thiosulfate sulfurtransferase, mitochondrial (Schizosaccharomyces pombe (strain 972 / ATCC 24843))"	
+TCALIF_06458-PA	Chromosome_11	9224849	9225472	"mRpL41 39S ribosomal protein L41, mitochondrial (Drosophila melanogaster)"	mRP
+TCALIF_06478-PA	Chromosome_11	9147839	9150648	"Ndufs2 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial (Rattus norvegicus)"	Comp-I
+TCALIF_06760-PA	Chromosome_11	12774814	12782436	Mrpp3 Mitochondrial ribonuclease P protein 3 (Rattus norvegicus)	
+TCALIF_06889-PA	Chromosome_11	4374690	4375247	"ICT1 Peptidyl-tRNA hydrolase ICT1, mitochondrial (Bos taurus)"	
+TCALIF_06899-PA	Chromosome_11	4242834	4246504	Tim9a Mitochondrial import inner membrane translocase subunit Tim9 (Drosophila melanogaster)	
+TCALIF_07571-PA	Chromosome_11	5623239	5626754	"HtrA2 Serine protease HTRA2, mitochondrial (Drosophila pseudoobscura pseudoobscura)"	
+TCALIF_07832-PA	Chromosome_11	15250325	15256225	"Ethe1 Persulfide dioxygenase ETHE1, mitochondrial (Mus musculus)"	
+TCALIF_07844-PA	Chromosome_11	15351506	15356380	"Acadvl Very long-chain specific acyl-CoA dehydrogenase, mitochondrial (Rattus norvegicus)"	
+TCALIF_08123-PA	Chromosome_11	577210	579581	tomm20 Mitochondrial import receptor subunit TOM20 homolog (Xenopus tropicalis)	
+TCALIF_08131-PA	Chromosome_11	613386	615018	MARC2 Mitochondrial amidoxime reducing component 2 (Bos taurus)	
+TCALIF_08515-PA	Chromosome_11	13296998	13299829	"ATPsyn-Cf6 ATP synthase-coupling factor 6, mitochondrial (Drosophila melanogaster)"	Comp-V
+TCALIF_08604-PA	Chromosome_11	3503503	3506883	"Bdh1 D-beta-hydroxybutyrate dehydrogenase, mitochondrial (Rattus norvegicus)"	
+TCALIF_08619-PA	Chromosome_11	3329080	3332909	"ACAA2 3-ketoacyl-CoA thiolase, mitochondrial (Homo sapiens)"	
+TCALIF_10648-PA	Chromosome_11	11837683	11838330	Dnlz DNL-type zinc finger protein (Mus musculus)	
+TCALIF_11057-PA	Chromosome_11	745080	754881	"Mrpl40 39S ribosomal protein L40, mitochondrial (Mus musculus)"	mRP
+TCALIF_11595-PA	Chromosome_11	7589122	7591292	"Mrps2 28S ribosomal protein S2, mitochondrial (Mus musculus)"	mRP
+TCALIF_11597-PA	Chromosome_11	7632611	7634285	"Mrpl48 39S ribosomal protein L48, mitochondrial (Mus musculus)"	mRP
+TCALIF_12221-PA	Chromosome_11	12404391	12408613	"Apopt1 Apoptogenic protein 1, mitochondrial (Mus musculus)"	
+TCALIF_12222-PA	Chromosome_11	12400489	12406537	TOMM70A Mitochondrial import receptor subunit TOM70 (Homo sapiens)	
+TCALIF_12649-PA	Chromosome_11	14413434	14417886	"HIBADH 3-hydroxyisobutyrate dehydrogenase, mitochondrial (Pongo abelii)"	
+TCALIF_12694-PA	Chromosome_11	13868988	13869249	"fdx1l Adrenodoxin-like protein, mitochondrial (Danio rerio)"	
+TCALIF_12764-PA	Chromosome_11	8938114	8938866	TMEM65 Transmembrane protein 65 (Bos taurus)	
+TCALIF_12821-PA	Chromosome_11	1154658	1156845	Slc25a21 Mitochondrial 2-oxodicarboxylate carrier (Rattus norvegicus)	
+TCALIF_12822-PA	Chromosome_11	1123966	1150288	"Acss1 Acetyl-coenzyme A synthetase 2-like, mitochondrial (Mus musculus)"	
+TCALIF_12848-PA	Chromosome_11	8560851	8565885	SLC25A29 Mitochondrial carnitine/acylcarnitine carrier protein CACL (Bos taurus)	
+TCALIF_13636-PA	Chromosome_11	8752140	8752893	"MRPS35 28S ribosomal protein S35, mitochondrial (Homo sapiens)"	mRP
+TCALIF_13805-PA	Chromosome_11	5957174	5960068	ALDH9A1 4-trimethylaminobutyraldehyde dehydrogenase (Homo sapiens)	
+TCALIF_13826-PA	Chromosome_11	15703385	15709889	"MRPS30 28S ribosomal protein S30, mitochondrial (Homo sapiens)"	mRP
+TCALIF_04316-PA	Chromosome_12	5051205	5058369	"Gls Glutaminase kidney isoform, mitochondrial (Mus musculus)"	
+TCALIF_04340-PA	Chromosome_12	5274631	5279473	porin Voltage-dependent anion-selective channel (Drosophila melanogaster)	
+TCALIF_04550-PA	Chromosome_12	3878023	3878796	"TFAM Transcription factor A, mitochondrial (Bos taurus)"	TFAM
+TCALIF_04563-PA	Chromosome_12	3739474	3750171	"Eci2 Enoyl-CoA delta isomerase 2, mitochondrial (Mus musculus)"	
+TCALIF_06490-PA	Chromosome_12	9349780	9353249	"GM13534 NFU1 iron-sulfur cluster scaffold homolog, mitochondrial (Drosophila sechellia)"	
+TCALIF_07753-PA	Chromosome_12	8709991	8712573	mpv17l2 Mpv17-like protein 2 (Xenopus tropicalis)	
+TCALIF_09890-PA	Chromosome_12	1925629	1928933	"CLPX ATP-dependent Clp protease ATP-binding subunit clpX-like, mitochondrial (Pongo abelii)"	
+TCALIF_11632-PA	Chromosome_12	9193274	9197467	HRSP12 Ribonuclease UK114 (Homo sapiens)	
+TCALIF_11846-PA	Chromosome_12	18033445	18038227	"AASS Alpha-aminoadipic semialdehyde synthase, mitochondrial (Bos taurus)"	
+TCALIF_11851-PA	Chromosome_12	17988309	17996651	"NAD-dependent malic enzyme 59 kDa isoform, mitochondrial (Solanum tuberosum)"	
+TCALIF_12040-PA	Chromosome_12	272536	274602	Cyp1 Peptidyl-prolyl cis-trans isomerase (Drosophila melanogaster)	
+TCALIF_13739-PA	Chromosome_12	12869187	12870663	"PNPT1 Polyribonucleotide nucleotidyltransferase 1, mitochondrial (Pongo abelii)"	
